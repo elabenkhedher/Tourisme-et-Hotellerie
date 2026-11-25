@@ -1,0 +1,891 @@
+﻿chambre_id,hotel_id,nom_hotel,ville,gouvernorat,region,etoiles,type_zone,annee_ouverture,numero_chambre,etage,type_chambre,capacite_personnes,prix_base,vue_mer,superficie_m2,type_lit,nb_lits,balcon,accessible_pmr,annee_derniere_renovation,etat_chambre
+CH0001,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,001,0,Standard,2,110.00,False,23,Lit double,1,False,True,2020,Bon état
+CH0002,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,002,0,Standard,2,110.00,False,26,Lit double,1,False,True,2016,Bon état
+CH0003,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,003,0,Standard,2,110.00,False,21,Lit double,1,False,False,2022,Rénovée
+CH0004,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,004,0,Standard,2,110.00,False,26,Lit double,1,False,True,2023,Rénovée
+CH0005,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,005,0,Standard,2,110.00,False,21,Lit double,1,True,False,2018,Bon état
+CH0006,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,006,0,Standard,2,110.00,False,25,Lit double,1,True,False,2016,Bon état
+CH0007,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,007,0,Standard,2,110.00,False,25,Lits jumeaux,2,False,False,2023,Rénovée
+CH0008,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,008,0,Standard,2,110.00,False,24,Lits jumeaux,2,True,True,2022,Rénovée
+CH0009,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,009,0,Standard,2,110.00,False,22,Lits jumeaux,2,False,False,2020,Bon état
+CH0010,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,010,0,Standard,2,110.00,False,21,Lit double,1,True,False,2016,Bon état
+CH0011,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,011,0,Standard,2,110.00,False,26,Lit double,1,False,True,2022,Rénovée
+CH0012,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,012,0,Standard,2,110.00,False,22,Lits jumeaux,2,False,False,2024,Rénovée
+CH0013,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,013,0,Standard,2,110.00,False,23,Lit double,1,False,True,2016,Bon état
+CH0014,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,014,0,Standard,2,110.00,False,23,Lits jumeaux,2,True,False,2018,Bon état
+CH0015,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,015,0,Standard,2,110.00,False,23,Lit double,1,False,False,2018,Bon état
+CH0016,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,016,0,Standard,2,110.00,False,23,Lits jumeaux,2,True,False,2020,Bon état
+CH0017,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,017,0,Standard,2,110.00,False,25,Lit double,1,True,False,2023,Rénovée
+CH0018,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,018,0,Standard,2,110.00,False,20,Lit double,1,False,False,2018,Bon état
+CH0019,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,019,0,Standard,2,110.00,False,22,Lit double,1,True,True,2013,À rénover
+CH0020,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,020,0,Standard,2,110.00,False,21,Lit double,1,True,False,2020,Bon état
+CH0021,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,021,0,Standard,2,110.00,False,23,Lits jumeaux,2,True,False,2016,Bon état
+CH0022,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,022,0,Standard,2,110.00,False,23,Lit double,1,True,True,2022,Rénovée
+CH0023,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,023,0,Standard,2,110.00,False,23,Lit double,1,True,False,2010,À rénover
+CH0024,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,024,0,Standard,2,110.00,False,24,Lit double,1,True,False,2016,Bon état
+CH0025,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,101,1,Standard,2,110.00,False,20,Lits jumeaux,2,True,False,2010,À rénover
+CH0026,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,102,1,Standard,2,110.00,False,23,Lits jumeaux,2,True,False,2018,Bon état
+CH0027,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,103,1,Standard,2,110.00,False,23,Lit double,1,True,False,2016,Bon état
+CH0028,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,104,1,Standard,2,110.00,False,25,Lit double,1,False,False,2018,Bon état
+CH0029,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,105,1,Standard,2,110.00,False,25,Lits jumeaux,2,True,False,2020,Bon état
+CH0030,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,106,1,Standard,2,110.00,False,20,Lits jumeaux,2,True,False,2023,Rénovée
+CH0031,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,107,1,Standard,2,110.00,False,22,Lit double,1,False,False,2023,Rénovée
+CH0032,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,108,1,Standard,2,110.00,False,26,Lits jumeaux,2,True,False,2018,Bon état
+CH0033,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,109,1,Standard,2,110.00,False,23,Lit double,1,True,False,2020,Bon état
+CH0034,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,110,1,Standard,2,110.00,False,25,Lit double,1,False,False,2020,Bon état
+CH0035,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,111,1,Standard,2,110.00,False,25,Lit double,1,True,False,2020,Bon état
+CH0036,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,112,1,Standard,2,110.00,False,21,Lit double,1,True,False,2020,Bon état
+CH0037,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,113,1,Standard,2,110.00,False,23,Lit double,1,False,False,2013,À rénover
+CH0038,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,114,1,Standard,2,110.00,False,20,Lits jumeaux,2,True,False,2016,Bon état
+CH0039,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,115,1,Standard,2,110.00,False,26,Lit double,1,True,False,2016,Bon état
+CH0040,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,116,1,Standard,2,110.00,False,25,Lit double,1,True,False,2023,Rénovée
+CH0041,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,117,1,Standard,2,110.00,False,22,Lit double,1,False,False,2022,Rénovée
+CH0042,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,118,1,Standard,2,110.00,False,25,Lits jumeaux,2,True,False,2010,À rénover
+CH0043,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,119,1,Standard,2,110.00,False,26,Lit double,1,True,False,2022,Rénovée
+CH0044,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,120,1,Standard,2,110.00,False,26,Lits jumeaux,2,False,False,2020,Bon état
+CH0045,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,121,1,Standard,2,110.00,False,25,Lit double,1,False,False,2016,Bon état
+CH0046,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,122,1,Standard,2,110.00,False,26,Lit double,1,False,False,2022,Rénovée
+CH0047,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,123,1,Standard,2,110.00,False,26,Lit double,1,False,False,2022,Rénovée
+CH0048,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,124,1,Standard,2,110.00,False,20,Lits jumeaux,2,True,False,2010,À rénover
+CH0049,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,201,2,Standard,2,110.00,False,26,Lits jumeaux,2,True,False,2013,À rénover
+CH0050,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,202,2,Standard,2,110.00,False,21,Lit double,1,True,False,2013,À rénover
+CH0051,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,203,2,Standard,2,110.00,False,22,Lits jumeaux,2,True,False,2016,Bon état
+CH0052,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,204,2,Standard,2,110.00,False,26,Lits jumeaux,2,True,False,2024,Rénovée
+CH0053,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,205,2,Standard,2,110.00,False,26,Lits jumeaux,2,True,False,2016,Bon état
+CH0054,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,206,2,Standard,2,110.00,False,20,Lit double,1,True,False,2018,Bon état
+CH0055,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,207,2,Standard,2,110.00,False,20,Lit double,1,True,False,2016,Bon état
+CH0056,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,208,2,Standard,2,110.00,False,25,Lits jumeaux,2,True,False,2010,À rénover
+CH0057,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,209,2,Standard,2,110.00,False,23,Lits jumeaux,2,False,False,2020,Bon état
+CH0058,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,210,2,Standard,2,110.00,False,24,Lits jumeaux,2,True,False,2010,À rénover
+CH0059,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,211,2,Standard,2,110.00,False,25,Lit double,1,True,False,2018,Bon état
+CH0060,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,212,2,Standard,2,110.00,False,20,Lit double,1,False,False,2010,À rénover
+CH0061,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,213,2,Supérieure,3,150.00,True,29,Lits jumeaux,2,False,False,2013,À rénover
+CH0062,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,214,2,Supérieure,3,150.00,True,30,Lit king,1,False,False,2024,Rénovée
+CH0063,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,215,2,Supérieure,3,150.00,True,29,Lits jumeaux,2,False,False,2023,Rénovée
+CH0064,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,216,2,Supérieure,3,150.00,True,30,Lits jumeaux,2,True,False,2018,Bon état
+CH0065,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,217,2,Supérieure,3,150.00,True,27,Lit king,1,False,False,2020,Bon état
+CH0066,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,218,2,Supérieure,3,150.00,True,31,Lit double,1,True,False,2023,Rénovée
+CH0067,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,219,2,Supérieure,3,150.00,True,34,Lit double,1,True,False,2013,À rénover
+CH0068,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,220,2,Supérieure,3,150.00,True,26,Lit double,1,False,False,2023,Rénovée
+CH0069,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,221,2,Supérieure,3,150.00,True,34,Lit king,1,True,False,2023,Rénovée
+CH0070,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,222,2,Supérieure,3,150.00,True,34,Lit king,1,True,False,2023,Rénovée
+CH0071,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,223,2,Supérieure,3,150.00,True,27,Lit king,1,True,False,2024,Rénovée
+CH0072,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,224,2,Supérieure,3,150.00,True,27,Lit double,1,True,False,2016,Bon état
+CH0073,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,301,3,Supérieure,3,150.00,True,32,Lit king,1,False,False,2020,Bon état
+CH0074,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,302,3,Supérieure,3,150.00,True,33,Lit king,1,True,False,2023,Rénovée
+CH0075,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,303,3,Supérieure,3,150.00,True,34,Lit king,1,True,False,2018,Bon état
+CH0076,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,304,3,Supérieure,3,150.00,True,29,Lit king,1,True,False,2020,Bon état
+CH0077,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,305,3,Supérieure,3,150.00,True,29,Lits jumeaux,2,True,False,2024,Rénovée
+CH0078,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,306,3,Supérieure,3,150.00,True,34,Lits jumeaux,2,False,False,2010,À rénover
+CH0079,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,307,3,Supérieure,3,150.00,True,31,Lits jumeaux,2,False,False,2016,Bon état
+CH0080,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,308,3,Supérieure,3,150.00,True,31,Lit king,1,True,False,2020,Bon état
+CH0081,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,309,3,Supérieure,3,150.00,True,33,Lits jumeaux,2,False,False,2020,Bon état
+CH0082,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,310,3,Supérieure,3,150.00,True,29,Lit king,1,True,False,2023,Rénovée
+CH0083,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,311,3,Supérieure,3,150.00,True,29,Lit double,1,True,False,2023,Rénovée
+CH0084,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,312,3,Supérieure,3,150.00,True,29,Lit king,1,False,False,2022,Rénovée
+CH0085,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,313,3,Supérieure,3,150.00,True,32,Lit king,1,True,False,2010,À rénover
+CH0086,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,314,3,Supérieure,3,150.00,True,34,Lit king,1,False,False,2020,Bon état
+CH0087,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,315,3,Supérieure,3,150.00,True,30,Lit double,1,False,False,2013,À rénover
+CH0088,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,316,3,Supérieure,3,150.00,True,30,Lit king,1,True,False,2016,Bon état
+CH0089,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,317,3,Supérieure,3,150.00,True,34,Lit double,1,False,False,2013,À rénover
+CH0090,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,318,3,Supérieure,3,150.00,True,27,Lit king,1,True,False,2016,Bon état
+CH0091,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,319,3,Familiale,5,190.00,False,48,Lit double + 2 lits simples,3,False,False,2023,Rénovée
+CH0092,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,320,3,Familiale,5,190.00,False,48,Lit double + 2 lits simples,3,False,False,2016,Bon état
+CH0093,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,321,3,Familiale,5,190.00,False,45,Lit double + 2 lits simples,3,True,False,2022,Rénovée
+CH0094,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,322,3,Familiale,5,190.00,False,43,Lit double + 2 lits simples,3,False,False,2023,Rénovée
+CH0095,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,323,3,Familiale,5,190.00,False,44,Lit double + 2 lits simples,3,False,False,2020,Bon état
+CH0096,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,324,3,Familiale,5,190.00,False,42,Lit double + 2 lits simples,3,False,False,2020,Bon état
+CH0097,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,401,4,Familiale,5,190.00,False,46,Lit double + 2 lits simples,3,True,False,2024,Rénovée
+CH0098,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,402,4,Familiale,5,190.00,False,37,Lit double + 2 lits simples,3,False,False,2020,Bon état
+CH0099,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,403,4,Familiale,5,190.00,False,45,Lit double + 2 lits simples,3,False,False,2022,Rénovée
+CH0100,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,404,4,Familiale,5,190.00,False,47,Lit double + canapé-lit,2,True,False,2022,Rénovée
+CH0101,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,405,4,Familiale,5,190.00,False,37,Lit double + canapé-lit,2,True,False,2023,Rénovée
+CH0102,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,406,4,Familiale,5,190.00,False,48,Lit double + 2 lits simples,3,False,False,2016,Bon état
+CH0103,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,407,4,Familiale,5,190.00,False,43,Lit double + 2 lits simples,3,True,False,2016,Bon état
+CH0104,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,408,4,Familiale,5,190.00,False,42,Lit double + 2 lits simples,3,False,False,2016,Bon état
+CH0105,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,409,4,Familiale,5,190.00,False,47,Lit double + canapé-lit,2,True,False,2013,À rénover
+CH0106,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,410,4,Familiale,5,190.00,False,44,Lit double + 2 lits simples,3,True,False,2016,Bon état
+CH0107,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,411,4,Familiale,5,190.00,False,41,Lit double + 2 lits simples,3,True,False,2013,À rénover
+CH0108,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,412,4,Familiale,5,190.00,False,39,Lit double + 2 lits simples,3,False,False,2022,Rénovée
+CH0109,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,413,4,Suite,4,300.00,True,67,Lit king,1,False,False,2016,Bon état
+CH0110,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,414,4,Suite,4,300.00,True,55,Lit king,1,True,False,2013,À rénover
+CH0111,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,415,4,Suite,4,300.00,True,53,Lit king,1,False,False,2013,À rénover
+CH0112,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,416,4,Suite,4,300.00,True,55,Lit king,1,True,False,2018,Bon état
+CH0113,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,417,4,Suite,4,300.00,True,71,Lit king,1,True,False,2024,Rénovée
+CH0114,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,418,4,Suite,4,300.00,True,78,Lit king,1,True,False,2023,Rénovée
+CH0115,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,419,4,Suite,4,300.00,True,75,Lit king,1,False,False,2016,Bon état
+CH0116,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,420,4,Suite,4,300.00,True,57,Lit king,1,True,False,2018,Bon état
+CH0117,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,421,4,Suite,4,300.00,True,56,Lit king,1,True,False,2024,Rénovée
+CH0118,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,422,4,Suite,4,300.00,True,53,Lit king,1,True,False,2013,À rénover
+CH0119,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,423,4,Suite,4,300.00,True,59,Lit king,1,True,False,2013,À rénover
+CH0120,H01,Jasmin Beach Hammamet,Hammamet,Nabeul,Cap Bon,5,Balnéaire,2005,424,4,Suite,4,300.00,True,53,Lit king,1,True,False,2010,À rénover
+CH0121,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,001,0,Standard,2,110.00,False,23,Lit double,1,True,True,2013,À rénover
+CH0122,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,002,0,Standard,2,110.00,False,20,Lit double,1,False,False,2016,Bon état
+CH0123,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,003,0,Standard,2,110.00,False,20,Lits jumeaux,2,True,False,2016,Bon état
+CH0124,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,004,0,Standard,2,110.00,False,21,Lit double,1,True,False,2018,Bon état
+CH0125,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,005,0,Standard,2,110.00,False,23,Lits jumeaux,2,True,True,2013,À rénover
+CH0126,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,006,0,Standard,2,110.00,False,24,Lits jumeaux,2,True,False,2010,À rénover
+CH0127,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,007,0,Standard,2,110.00,False,23,Lit double,1,False,False,2018,Bon état
+CH0128,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,008,0,Standard,2,110.00,False,21,Lit double,1,False,False,2016,Bon état
+CH0129,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,009,0,Standard,2,110.00,False,24,Lits jumeaux,2,True,True,2020,Bon état
+CH0130,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,010,0,Standard,2,110.00,False,22,Lits jumeaux,2,True,False,2022,Rénovée
+CH0131,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,011,0,Standard,2,110.00,False,26,Lit double,1,True,True,2018,Bon état
+CH0132,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,012,0,Standard,2,110.00,False,22,Lit double,1,True,False,2022,Rénovée
+CH0133,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,013,0,Standard,2,110.00,False,20,Lit double,1,False,False,2023,Rénovée
+CH0134,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,014,0,Standard,2,110.00,False,24,Lit double,1,True,False,2018,Bon état
+CH0135,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,015,0,Standard,2,110.00,False,23,Lit double,1,True,False,2020,Bon état
+CH0136,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,016,0,Standard,2,110.00,False,24,Lit double,1,False,False,2013,À rénover
+CH0137,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,017,0,Standard,2,110.00,False,21,Lit double,1,False,False,2013,À rénover
+CH0138,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,018,0,Standard,2,110.00,False,22,Lits jumeaux,2,False,True,2024,Rénovée
+CH0139,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,019,0,Standard,2,110.00,False,23,Lits jumeaux,2,True,False,2022,Rénovée
+CH0140,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,020,0,Standard,2,110.00,False,21,Lits jumeaux,2,False,False,2013,À rénover
+CH0141,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,101,1,Standard,2,110.00,False,24,Lits jumeaux,2,True,False,2018,Bon état
+CH0142,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,102,1,Standard,2,110.00,False,20,Lit double,1,False,False,2010,À rénover
+CH0143,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,103,1,Standard,2,110.00,False,21,Lits jumeaux,2,True,False,2016,Bon état
+CH0144,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,104,1,Standard,2,110.00,False,24,Lit double,1,True,False,2024,Rénovée
+CH0145,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,105,1,Standard,2,110.00,False,24,Lit double,1,False,False,2023,Rénovée
+CH0146,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,106,1,Standard,2,110.00,False,21,Lit double,1,False,False,2018,Bon état
+CH0147,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,107,1,Standard,2,110.00,False,23,Lit double,1,True,False,2023,Rénovée
+CH0148,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,108,1,Standard,2,110.00,False,23,Lits jumeaux,2,True,False,2016,Bon état
+CH0149,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,109,1,Standard,2,110.00,False,22,Lit double,1,False,False,2023,Rénovée
+CH0150,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,110,1,Standard,2,110.00,False,21,Lits jumeaux,2,True,False,2023,Rénovée
+CH0151,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,111,1,Standard,2,110.00,False,25,Lit double,1,True,False,2018,Bon état
+CH0152,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,112,1,Standard,2,110.00,False,23,Lits jumeaux,2,False,False,2013,À rénover
+CH0153,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,113,1,Standard,2,110.00,False,25,Lit double,1,True,False,2016,Bon état
+CH0154,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,114,1,Standard,2,110.00,False,25,Lits jumeaux,2,True,False,2020,Bon état
+CH0155,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,115,1,Standard,2,110.00,False,23,Lit double,1,False,False,2020,Bon état
+CH0156,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,116,1,Standard,2,110.00,False,25,Lit double,1,False,False,2010,À rénover
+CH0157,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,117,1,Standard,2,110.00,False,24,Lit double,1,True,False,2022,Rénovée
+CH0158,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,118,1,Standard,2,110.00,False,23,Lits jumeaux,2,False,False,2022,Rénovée
+CH0159,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,119,1,Standard,2,110.00,False,20,Lit double,1,True,False,2023,Rénovée
+CH0160,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,120,1,Standard,2,110.00,False,22,Lits jumeaux,2,True,False,2010,À rénover
+CH0161,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,201,2,Standard,2,110.00,False,23,Lits jumeaux,2,True,False,2018,Bon état
+CH0162,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,202,2,Standard,2,110.00,False,20,Lit double,1,False,False,2018,Bon état
+CH0163,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,203,2,Standard,2,110.00,False,26,Lit double,1,False,False,2020,Bon état
+CH0164,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,204,2,Standard,2,110.00,False,25,Lit double,1,False,False,2010,À rénover
+CH0165,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,205,2,Standard,2,110.00,False,23,Lit double,1,True,False,2024,Rénovée
+CH0166,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,206,2,Standard,2,110.00,False,25,Lit double,1,False,False,2018,Bon état
+CH0167,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,207,2,Standard,2,110.00,False,25,Lit double,1,False,False,2022,Rénovée
+CH0168,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,208,2,Standard,2,110.00,False,25,Lits jumeaux,2,True,False,2023,Rénovée
+CH0169,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,209,2,Standard,2,110.00,False,26,Lit double,1,True,False,2020,Bon état
+CH0170,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,210,2,Standard,2,110.00,False,26,Lit double,1,False,False,2020,Bon état
+CH0171,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,211,2,Supérieure,3,150.00,True,30,Lit king,1,False,False,2018,Bon état
+CH0172,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,212,2,Supérieure,3,150.00,True,33,Lits jumeaux,2,True,False,2024,Rénovée
+CH0173,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,213,2,Supérieure,3,150.00,True,34,Lit king,1,False,False,2024,Rénovée
+CH0174,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,214,2,Supérieure,3,150.00,True,32,Lits jumeaux,2,False,False,2013,À rénover
+CH0175,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,215,2,Supérieure,3,150.00,True,34,Lits jumeaux,2,False,False,2024,Rénovée
+CH0176,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,216,2,Supérieure,3,150.00,True,28,Lits jumeaux,2,True,False,2024,Rénovée
+CH0177,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,217,2,Supérieure,3,150.00,True,32,Lit double,1,False,False,2024,Rénovée
+CH0178,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,218,2,Supérieure,3,150.00,True,29,Lit double,1,False,False,2023,Rénovée
+CH0179,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,219,2,Supérieure,3,150.00,True,34,Lit king,1,False,False,2013,À rénover
+CH0180,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,220,2,Supérieure,3,150.00,True,28,Lit king,1,False,False,2022,Rénovée
+CH0181,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,301,3,Supérieure,3,150.00,True,32,Lit king,1,False,False,2024,Rénovée
+CH0182,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,302,3,Supérieure,3,150.00,True,29,Lits jumeaux,2,True,False,2010,À rénover
+CH0183,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,303,3,Supérieure,3,150.00,True,27,Lit double,1,False,False,2023,Rénovée
+CH0184,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,304,3,Supérieure,3,150.00,True,31,Lit double,1,True,False,2018,Bon état
+CH0185,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,305,3,Supérieure,3,150.00,True,29,Lits jumeaux,2,True,False,2020,Bon état
+CH0186,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,306,3,Supérieure,3,150.00,True,27,Lit king,1,True,False,2023,Rénovée
+CH0187,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,307,3,Supérieure,3,150.00,True,33,Lit double,1,True,False,2018,Bon état
+CH0188,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,308,3,Supérieure,3,150.00,True,29,Lits jumeaux,2,True,False,2016,Bon état
+CH0189,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,309,3,Supérieure,3,150.00,True,29,Lit king,1,True,False,2013,À rénover
+CH0190,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,310,3,Supérieure,3,150.00,True,28,Lits jumeaux,2,False,False,2020,Bon état
+CH0191,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,311,3,Supérieure,3,150.00,True,26,Lit double,1,True,False,2018,Bon état
+CH0192,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,312,3,Supérieure,3,150.00,True,28,Lit king,1,False,False,2023,Rénovée
+CH0193,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,313,3,Supérieure,3,150.00,True,28,Lit king,1,False,False,2018,Bon état
+CH0194,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,314,3,Supérieure,3,150.00,True,33,Lit double,1,False,False,2020,Bon état
+CH0195,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,315,3,Supérieure,3,150.00,True,32,Lit double,1,False,False,2013,À rénover
+CH0196,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,316,3,Familiale,5,190.00,False,47,Lit double + canapé-lit,2,True,False,2018,Bon état
+CH0197,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,317,3,Familiale,5,190.00,False,46,Lit double + 2 lits simples,3,True,False,2010,À rénover
+CH0198,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,318,3,Familiale,5,190.00,False,42,Lit double + canapé-lit,2,True,False,2010,À rénover
+CH0199,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,319,3,Familiale,5,190.00,False,43,Lit double + canapé-lit,2,True,False,2023,Rénovée
+CH0200,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,320,3,Familiale,5,190.00,False,36,Lit double + 2 lits simples,3,True,False,2022,Rénovée
+CH0201,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,401,4,Familiale,5,190.00,False,46,Lit double + canapé-lit,2,False,False,2022,Rénovée
+CH0202,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,402,4,Familiale,5,190.00,False,36,Lit double + canapé-lit,2,True,False,2022,Rénovée
+CH0203,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,403,4,Familiale,5,190.00,False,39,Lit double + 2 lits simples,3,False,False,2024,Rénovée
+CH0204,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,404,4,Familiale,5,190.00,False,37,Lit double + canapé-lit,2,True,False,2020,Bon état
+CH0205,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,405,4,Familiale,5,190.00,False,43,Lit double + 2 lits simples,3,False,False,2020,Bon état
+CH0206,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,406,4,Familiale,5,190.00,False,46,Lit double + canapé-lit,2,True,False,2022,Rénovée
+CH0207,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,407,4,Familiale,5,190.00,False,40,Lit double + 2 lits simples,3,True,False,2016,Bon état
+CH0208,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,408,4,Familiale,5,190.00,False,38,Lit double + 2 lits simples,3,True,False,2024,Rénovée
+CH0209,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,409,4,Familiale,5,190.00,False,43,Lit double + 2 lits simples,3,True,False,2023,Rénovée
+CH0210,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,410,4,Familiale,5,190.00,False,36,Lit double + 2 lits simples,3,True,False,2024,Rénovée
+CH0211,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,411,4,Suite,4,300.00,True,56,Lit king,1,True,False,2024,Rénovée
+CH0212,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,412,4,Suite,4,300.00,True,55,Lit king,1,True,False,2023,Rénovée
+CH0213,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,413,4,Suite,4,300.00,True,71,Lit king,1,True,False,2018,Bon état
+CH0214,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,414,4,Suite,4,300.00,True,76,Lit king,1,True,False,2013,À rénover
+CH0215,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,415,4,Suite,4,300.00,True,78,Lit king,1,False,False,2023,Rénovée
+CH0216,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,416,4,Suite,4,300.00,True,74,Lit king,1,False,False,2022,Rénovée
+CH0217,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,417,4,Suite,4,300.00,True,80,Lit king,1,False,False,2020,Bon état
+CH0218,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,418,4,Suite,4,300.00,True,69,Lit king,1,True,False,2022,Rénovée
+CH0219,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,419,4,Suite,4,300.00,True,67,Lit king,1,True,False,2022,Rénovée
+CH0220,H02,Corail Sousse,Sousse,Sousse,Sahel,4,Balnéaire,1998,420,4,Suite,4,300.00,True,75,Lit king,1,True,False,2023,Rénovée
+CH0221,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,001,0,Standard,2,110.00,False,26,Lits jumeaux,2,True,True,2024,Rénovée
+CH0222,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,002,0,Standard,2,110.00,False,20,Lits jumeaux,2,False,False,2016,Bon état
+CH0223,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,003,0,Standard,2,110.00,False,21,Lits jumeaux,2,True,True,2013,À rénover
+CH0224,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,004,0,Standard,2,110.00,False,24,Lit double,1,True,False,2023,Rénovée
+CH0225,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,005,0,Standard,2,110.00,False,23,Lits jumeaux,2,False,True,2024,Rénovée
+CH0226,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,006,0,Standard,2,110.00,False,26,Lit double,1,True,False,2013,À rénover
+CH0227,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,007,0,Standard,2,110.00,False,23,Lits jumeaux,2,True,False,2024,Rénovée
+CH0228,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,008,0,Standard,2,110.00,False,24,Lit double,1,False,True,2024,Rénovée
+CH0229,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,009,0,Standard,2,110.00,False,24,Lit double,1,False,False,2022,Rénovée
+CH0230,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,010,0,Standard,2,110.00,False,24,Lit double,1,False,False,2016,Bon état
+CH0231,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,011,0,Standard,2,110.00,False,26,Lit double,1,True,False,2020,Bon état
+CH0232,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,012,0,Standard,2,110.00,False,23,Lit double,1,True,False,2020,Bon état
+CH0233,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,101,1,Standard,2,110.00,False,23,Lits jumeaux,2,False,False,2016,Bon état
+CH0234,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,102,1,Standard,2,110.00,False,21,Lits jumeaux,2,False,False,2023,Rénovée
+CH0235,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,103,1,Standard,2,110.00,False,22,Lit double,1,False,False,2023,Rénovée
+CH0236,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,104,1,Standard,2,110.00,False,23,Lit double,1,True,False,2022,Rénovée
+CH0237,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,105,1,Standard,2,110.00,False,23,Lit double,1,False,False,2016,Bon état
+CH0238,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,106,1,Standard,2,110.00,False,25,Lits jumeaux,2,False,False,2010,À rénover
+CH0239,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,107,1,Standard,2,110.00,False,20,Lit double,1,False,False,2024,Rénovée
+CH0240,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,108,1,Standard,2,110.00,False,21,Lits jumeaux,2,True,False,2010,À rénover
+CH0241,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,109,1,Standard,2,110.00,False,24,Lit double,1,True,False,2013,À rénover
+CH0242,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,110,1,Standard,2,110.00,False,22,Lit double,1,True,False,2018,Bon état
+CH0243,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,111,1,Standard,2,110.00,False,23,Lit double,1,True,False,2010,À rénover
+CH0244,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,112,1,Standard,2,110.00,False,23,Lits jumeaux,2,True,False,2022,Rénovée
+CH0245,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,201,2,Standard,2,110.00,False,20,Lits jumeaux,2,False,False,2016,Bon état
+CH0246,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,202,2,Standard,2,110.00,False,22,Lits jumeaux,2,False,False,2024,Rénovée
+CH0247,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,203,2,Standard,2,110.00,False,23,Lit double,1,True,False,2022,Rénovée
+CH0248,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,204,2,Standard,2,110.00,False,21,Lit double,1,True,False,2020,Bon état
+CH0249,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,205,2,Standard,2,110.00,False,20,Lits jumeaux,2,False,False,2020,Bon état
+CH0250,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,206,2,Standard,2,110.00,False,26,Lit double,1,True,False,2024,Rénovée
+CH0251,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,207,2,Standard,2,110.00,False,22,Lits jumeaux,2,False,False,2016,Bon état
+CH0252,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,208,2,Standard,2,110.00,False,26,Lit double,1,False,False,2010,À rénover
+CH0253,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,209,2,Standard,2,110.00,False,26,Lits jumeaux,2,False,False,2023,Rénovée
+CH0254,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,210,2,Standard,2,110.00,False,22,Lits jumeaux,2,False,False,2013,À rénover
+CH0255,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,211,2,Standard,2,110.00,False,20,Lit double,1,True,False,2023,Rénovée
+CH0256,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,212,2,Standard,2,110.00,False,21,Lit double,1,False,False,2018,Bon état
+CH0257,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,301,3,Standard,2,110.00,False,25,Lits jumeaux,2,False,False,2022,Rénovée
+CH0258,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,302,3,Standard,2,110.00,False,22,Lit double,1,False,False,2023,Rénovée
+CH0259,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,303,3,Standard,2,110.00,False,25,Lits jumeaux,2,True,False,2013,À rénover
+CH0260,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,304,3,Standard,2,110.00,False,20,Lit double,1,True,False,2023,Rénovée
+CH0261,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,305,3,Standard,2,110.00,False,26,Lit double,1,False,False,2023,Rénovée
+CH0262,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,306,3,Standard,2,110.00,False,24,Lit double,1,True,False,2022,Rénovée
+CH0263,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,307,3,Standard,2,110.00,False,22,Lits jumeaux,2,False,False,2023,Rénovée
+CH0264,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,308,3,Standard,2,110.00,False,21,Lit double,1,True,False,2016,Bon état
+CH0265,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,309,3,Standard,2,110.00,False,22,Lit double,1,True,False,2020,Bon état
+CH0266,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,310,3,Supérieure,3,150.00,True,30,Lit king,1,False,False,2023,Rénovée
+CH0267,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,311,3,Supérieure,3,150.00,True,27,Lit double,1,False,False,2010,À rénover
+CH0268,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,312,3,Supérieure,3,150.00,True,27,Lit king,1,True,False,2022,Rénovée
+CH0269,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,401,4,Supérieure,3,150.00,True,26,Lit king,1,False,False,2010,À rénover
+CH0270,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,402,4,Supérieure,3,150.00,True,28,Lit double,1,True,False,2020,Bon état
+CH0271,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,403,4,Supérieure,3,150.00,True,27,Lit king,1,False,False,2010,À rénover
+CH0272,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,404,4,Supérieure,3,150.00,True,33,Lit double,1,False,False,2023,Rénovée
+CH0273,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,405,4,Supérieure,3,150.00,True,34,Lit king,1,False,False,2024,Rénovée
+CH0274,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,406,4,Supérieure,3,150.00,True,29,Lit double,1,False,False,2016,Bon état
+CH0275,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,407,4,Supérieure,3,150.00,True,30,Lit king,1,False,False,2010,À rénover
+CH0276,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,408,4,Supérieure,3,150.00,True,29,Lit king,1,True,False,2010,À rénover
+CH0277,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,409,4,Supérieure,3,150.00,True,33,Lit king,1,True,False,2020,Bon état
+CH0278,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,410,4,Supérieure,3,150.00,True,27,Lit double,1,False,False,2022,Rénovée
+CH0279,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,411,4,Supérieure,3,150.00,True,32,Lit king,1,False,False,2016,Bon état
+CH0280,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,412,4,Supérieure,3,150.00,True,30,Lit double,1,False,False,2020,Bon état
+CH0281,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,501,5,Supérieure,3,150.00,True,26,Lit king,1,False,False,2023,Rénovée
+CH0282,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,502,5,Supérieure,3,150.00,True,32,Lit king,1,False,False,2020,Bon état
+CH0283,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,503,5,Supérieure,3,150.00,True,30,Lit double,1,False,False,2010,À rénover
+CH0284,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,504,5,Supérieure,3,150.00,True,30,Lit king,1,True,False,2010,À rénover
+CH0285,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,505,5,Supérieure,3,150.00,True,34,Lit double,1,False,False,2020,Bon état
+CH0286,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,506,5,Supérieure,3,150.00,True,31,Lit double,1,True,False,2010,À rénover
+CH0287,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,507,5,Supérieure,3,150.00,True,32,Lit double,1,True,False,2022,Rénovée
+CH0288,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,508,5,Familiale,5,190.00,False,41,Lit double + canapé-lit,2,False,False,2024,Rénovée
+CH0289,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,509,5,Familiale,5,190.00,False,39,Lit double + 2 lits simples,3,True,False,2018,Bon état
+CH0290,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,510,5,Familiale,5,190.00,False,36,Lit double + canapé-lit,2,False,False,2016,Bon état
+CH0291,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,511,5,Familiale,5,190.00,False,38,Lit double + canapé-lit,2,True,False,2018,Bon état
+CH0292,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,512,5,Familiale,5,190.00,False,37,Lit double + canapé-lit,2,False,False,2022,Rénovée
+CH0293,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,601,6,Familiale,5,190.00,False,48,Lit double + 2 lits simples,3,False,False,2023,Rénovée
+CH0294,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,602,6,Familiale,5,190.00,False,43,Lit double + 2 lits simples,3,True,False,2018,Bon état
+CH0295,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,603,6,Familiale,5,190.00,False,45,Lit double + 2 lits simples,3,True,False,2022,Rénovée
+CH0296,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,604,6,Familiale,5,190.00,False,48,Lit double + 2 lits simples,3,True,False,2024,Rénovée
+CH0297,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,605,6,Familiale,5,190.00,False,40,Lit double + 2 lits simples,3,False,False,2018,Bon état
+CH0298,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,606,6,Familiale,5,190.00,False,41,Lit double + 2 lits simples,3,True,False,2022,Rénovée
+CH0299,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,607,6,Familiale,5,190.00,False,46,Lit double + 2 lits simples,3,True,False,2018,Bon état
+CH0300,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,608,6,Familiale,5,190.00,False,40,Lit double + 2 lits simples,3,False,False,2010,À rénover
+CH0301,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,609,6,Familiale,5,190.00,False,48,Lit double + 2 lits simples,3,False,False,2016,Bon état
+CH0302,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,610,6,Suite,4,300.00,True,74,Lit king,1,True,False,2020,Bon état
+CH0303,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,611,6,Suite,4,300.00,True,69,Lit king,1,True,False,2023,Rénovée
+CH0304,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,612,6,Suite,4,300.00,True,70,Lit king,1,True,False,2022,Rénovée
+CH0305,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,701,7,Suite,4,300.00,True,60,Lit king,1,True,False,2020,Bon état
+CH0306,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,702,7,Suite,4,300.00,True,58,Lit king,1,True,False,2013,À rénover
+CH0307,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,703,7,Suite,4,300.00,True,53,Lit king,1,True,False,2024,Rénovée
+CH0308,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,704,7,Suite,4,300.00,True,61,Lit king,1,True,False,2013,À rénover
+CH0309,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,705,7,Suite,4,300.00,True,69,Lit king,1,True,False,2016,Bon état
+CH0310,H03,Carthage Business Tunis,Tunis,Tunis,Nord,4,Urbain,2010,706,7,Suite,4,300.00,True,55,Lit king,1,True,False,2010,À rénover
+CH0311,H04,Oasis Palm Tozeur,Tozeur,Tozeur,Sud-Ouest,3,Désert,2001,001,0,Standard,2,110.00,False,22,Lits jumeaux,2,False,False,2020,Bon état
+CH0312,H04,Oasis Palm Tozeur,Tozeur,Tozeur,Sud-Ouest,3,Désert,2001,002,0,Standard,2,110.00,False,24,Lits jumeaux,2,False,False,2023,Rénovée
+CH0313,H04,Oasis Palm Tozeur,Tozeur,Tozeur,Sud-Ouest,3,Désert,2001,003,0,Standard,2,110.00,False,23,Lit double,1,False,True,2018,Bon état
+CH0314,H04,Oasis Palm Tozeur,Tozeur,Tozeur,Sud-Ouest,3,Désert,2001,004,0,Standard,2,110.00,False,20,Lit double,1,True,False,2018,Bon état
+CH0315,H04,Oasis Palm Tozeur,Tozeur,Tozeur,Sud-Ouest,3,Désert,2001,005,0,Standard,2,110.00,False,20,Lit double,1,True,True,2010,À rénover
+CH0316,H04,Oasis Palm Tozeur,Tozeur,Tozeur,Sud-Ouest,3,Désert,2001,006,0,Standard,2,110.00,False,26,Lit double,1,True,False,2010,À rénover
+CH0317,H04,Oasis Palm Tozeur,Tozeur,Tozeur,Sud-Ouest,3,Désert,2001,007,0,Standard,2,110.00,False,22,Lit double,1,True,False,2024,Rénovée
+CH0318,H04,Oasis Palm Tozeur,Tozeur,Tozeur,Sud-Ouest,3,Désert,2001,008,0,Standard,2,110.00,False,24,Lit double,1,True,False,2013,À rénover
+CH0319,H04,Oasis Palm Tozeur,Tozeur,Tozeur,Sud-Ouest,3,Désert,2001,009,0,Standard,2,110.00,False,21,Lit double,1,False,True,2013,À rénover
+CH0320,H04,Oasis Palm Tozeur,Tozeur,Tozeur,Sud-Ouest,3,Désert,2001,010,0,Standard,2,110.00,False,23,Lit double,1,True,False,2024,Rénovée
+CH0321,H04,Oasis Palm Tozeur,Tozeur,Tozeur,Sud-Ouest,3,Désert,2001,011,0,Standard,2,110.00,False,21,Lits jumeaux,2,True,False,2024,Rénovée
+CH0322,H04,Oasis Palm Tozeur,Tozeur,Tozeur,Sud-Ouest,3,Désert,2001,012,0,Standard,2,110.00,False,20,Lits jumeaux,2,False,True,2018,Bon état
+CH0323,H04,Oasis Palm Tozeur,Tozeur,Tozeur,Sud-Ouest,3,Désert,2001,013,0,Standard,2,110.00,False,21,Lits jumeaux,2,True,False,2013,À rénover
+CH0324,H04,Oasis Palm Tozeur,Tozeur,Tozeur,Sud-Ouest,3,Désert,2001,014,0,Standard,2,110.00,False,25,Lits jumeaux,2,False,False,2022,Rénovée
+CH0325,H04,Oasis Palm Tozeur,Tozeur,Tozeur,Sud-Ouest,3,Désert,2001,015,0,Standard,2,110.00,False,23,Lit double,1,True,False,2020,Bon état
+CH0326,H04,Oasis Palm Tozeur,Tozeur,Tozeur,Sud-Ouest,3,Désert,2001,016,0,Standard,2,110.00,False,25,Lits jumeaux,2,False,True,2023,Rénovée
+CH0327,H04,Oasis Palm Tozeur,Tozeur,Tozeur,Sud-Ouest,3,Désert,2001,017,0,Standard,2,110.00,False,21,Lits jumeaux,2,False,False,2023,Rénovée
+CH0328,H04,Oasis Palm Tozeur,Tozeur,Tozeur,Sud-Ouest,3,Désert,2001,018,0,Standard,2,110.00,False,21,Lit double,1,False,False,2023,Rénovée
+CH0329,H04,Oasis Palm Tozeur,Tozeur,Tozeur,Sud-Ouest,3,Désert,2001,019,0,Standard,2,110.00,False,26,Lits jumeaux,2,False,True,2013,À rénover
+CH0330,H04,Oasis Palm Tozeur,Tozeur,Tozeur,Sud-Ouest,3,Désert,2001,020,0,Standard,2,110.00,False,26,Lits jumeaux,2,True,False,2018,Bon état
+CH0331,H04,Oasis Palm Tozeur,Tozeur,Tozeur,Sud-Ouest,3,Désert,2001,021,0,Standard,2,110.00,False,22,Lit double,1,False,True,2018,Bon état
+CH0332,H04,Oasis Palm Tozeur,Tozeur,Tozeur,Sud-Ouest,3,Désert,2001,022,0,Standard,2,110.00,False,25,Lits jumeaux,2,True,False,2018,Bon état
+CH0333,H04,Oasis Palm Tozeur,Tozeur,Tozeur,Sud-Ouest,3,Désert,2001,023,0,Standard,2,110.00,False,20,Lit double,1,False,False,2016,Bon état
+CH0334,H04,Oasis Palm Tozeur,Tozeur,Tozeur,Sud-Ouest,3,Désert,2001,024,0,Standard,2,110.00,False,25,Lits jumeaux,2,True,False,2020,Bon état
+CH0335,H04,Oasis Palm Tozeur,Tozeur,Tozeur,Sud-Ouest,3,Désert,2001,025,0,Standard,2,110.00,False,22,Lit double,1,True,False,2024,Rénovée
+CH0336,H04,Oasis Palm Tozeur,Tozeur,Tozeur,Sud-Ouest,3,Désert,2001,101,1,Supérieure,3,150.00,True,26,Lit double,1,False,False,2023,Rénovée
+CH0337,H04,Oasis Palm Tozeur,Tozeur,Tozeur,Sud-Ouest,3,Désert,2001,102,1,Supérieure,3,150.00,True,33,Lit double,1,True,False,2020,Bon état
+CH0338,H04,Oasis Palm Tozeur,Tozeur,Tozeur,Sud-Ouest,3,Désert,2001,103,1,Supérieure,3,150.00,True,34,Lit king,1,True,False,2018,Bon état
+CH0339,H04,Oasis Palm Tozeur,Tozeur,Tozeur,Sud-Ouest,3,Désert,2001,104,1,Supérieure,3,150.00,True,34,Lit double,1,True,False,2023,Rénovée
+CH0340,H04,Oasis Palm Tozeur,Tozeur,Tozeur,Sud-Ouest,3,Désert,2001,105,1,Supérieure,3,150.00,True,26,Lit double,1,True,False,2023,Rénovée
+CH0341,H04,Oasis Palm Tozeur,Tozeur,Tozeur,Sud-Ouest,3,Désert,2001,106,1,Supérieure,3,150.00,True,29,Lits jumeaux,2,True,False,2022,Rénovée
+CH0342,H04,Oasis Palm Tozeur,Tozeur,Tozeur,Sud-Ouest,3,Désert,2001,107,1,Supérieure,3,150.00,True,29,Lit king,1,False,False,2022,Rénovée
+CH0343,H04,Oasis Palm Tozeur,Tozeur,Tozeur,Sud-Ouest,3,Désert,2001,108,1,Supérieure,3,150.00,True,26,Lit king,1,True,False,2013,À rénover
+CH0344,H04,Oasis Palm Tozeur,Tozeur,Tozeur,Sud-Ouest,3,Désert,2001,109,1,Supérieure,3,150.00,True,34,Lit king,1,False,False,2024,Rénovée
+CH0345,H04,Oasis Palm Tozeur,Tozeur,Tozeur,Sud-Ouest,3,Désert,2001,110,1,Supérieure,3,150.00,True,34,Lit king,1,False,False,2013,À rénover
+CH0346,H04,Oasis Palm Tozeur,Tozeur,Tozeur,Sud-Ouest,3,Désert,2001,111,1,Supérieure,3,150.00,True,32,Lit double,1,True,False,2010,À rénover
+CH0347,H04,Oasis Palm Tozeur,Tozeur,Tozeur,Sud-Ouest,3,Désert,2001,112,1,Supérieure,3,150.00,True,30,Lit double,1,False,False,2022,Rénovée
+CH0348,H04,Oasis Palm Tozeur,Tozeur,Tozeur,Sud-Ouest,3,Désert,2001,113,1,Familiale,5,190.00,False,48,Lit double + 2 lits simples,3,False,False,2023,Rénovée
+CH0349,H04,Oasis Palm Tozeur,Tozeur,Tozeur,Sud-Ouest,3,Désert,2001,114,1,Familiale,5,190.00,False,39,Lit double + 2 lits simples,3,True,False,2020,Bon état
+CH0350,H04,Oasis Palm Tozeur,Tozeur,Tozeur,Sud-Ouest,3,Désert,2001,115,1,Familiale,5,190.00,False,48,Lit double + 2 lits simples,3,True,False,2018,Bon état
+CH0351,H04,Oasis Palm Tozeur,Tozeur,Tozeur,Sud-Ouest,3,Désert,2001,116,1,Familiale,5,190.00,False,48,Lit double + 2 lits simples,3,False,False,2023,Rénovée
+CH0352,H04,Oasis Palm Tozeur,Tozeur,Tozeur,Sud-Ouest,3,Désert,2001,117,1,Familiale,5,190.00,False,37,Lit double + 2 lits simples,3,True,False,2022,Rénovée
+CH0353,H04,Oasis Palm Tozeur,Tozeur,Tozeur,Sud-Ouest,3,Désert,2001,118,1,Familiale,5,190.00,False,40,Lit double + 2 lits simples,3,False,False,2018,Bon état
+CH0354,H04,Oasis Palm Tozeur,Tozeur,Tozeur,Sud-Ouest,3,Désert,2001,119,1,Familiale,5,190.00,False,48,Lit double + 2 lits simples,3,True,False,2022,Rénovée
+CH0355,H04,Oasis Palm Tozeur,Tozeur,Tozeur,Sud-Ouest,3,Désert,2001,120,1,Familiale,5,190.00,False,39,Lit double + 2 lits simples,3,False,False,2020,Bon état
+CH0356,H04,Oasis Palm Tozeur,Tozeur,Tozeur,Sud-Ouest,3,Désert,2001,121,1,Suite,4,300.00,True,71,Lit king,1,True,False,2022,Rénovée
+CH0357,H04,Oasis Palm Tozeur,Tozeur,Tozeur,Sud-Ouest,3,Désert,2001,122,1,Suite,4,300.00,True,67,Lit king,1,True,False,2022,Rénovée
+CH0358,H04,Oasis Palm Tozeur,Tozeur,Tozeur,Sud-Ouest,3,Désert,2001,123,1,Suite,4,300.00,True,54,Lit king,1,True,False,2016,Bon état
+CH0359,H04,Oasis Palm Tozeur,Tozeur,Tozeur,Sud-Ouest,3,Désert,2001,124,1,Suite,4,300.00,True,74,Lit king,1,True,False,2023,Rénovée
+CH0360,H04,Oasis Palm Tozeur,Tozeur,Tozeur,Sud-Ouest,3,Désert,2001,125,1,Suite,4,300.00,True,68,Lit king,1,True,False,2022,Rénovée
+CH0361,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,001,0,Standard,2,110.00,False,20,Lit double,1,True,False,2018,Bon état
+CH0362,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,002,0,Standard,2,110.00,False,24,Lits jumeaux,2,False,True,2010,À rénover
+CH0363,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,003,0,Standard,2,110.00,False,26,Lits jumeaux,2,True,False,2016,Bon état
+CH0364,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,004,0,Standard,2,110.00,False,23,Lit double,1,True,True,2020,Bon état
+CH0365,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,005,0,Standard,2,110.00,False,26,Lit double,1,True,False,2022,Rénovée
+CH0366,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,006,0,Standard,2,110.00,False,26,Lits jumeaux,2,False,False,2023,Rénovée
+CH0367,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,007,0,Standard,2,110.00,False,20,Lit double,1,False,True,2010,À rénover
+CH0368,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,008,0,Standard,2,110.00,False,26,Lit double,1,True,True,2013,À rénover
+CH0369,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,009,0,Standard,2,110.00,False,21,Lit double,1,False,False,2020,Bon état
+CH0370,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,010,0,Standard,2,110.00,False,23,Lit double,1,True,True,2022,Rénovée
+CH0371,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,011,0,Standard,2,110.00,False,20,Lit double,1,True,False,2013,À rénover
+CH0372,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,012,0,Standard,2,110.00,False,21,Lits jumeaux,2,True,False,2020,Bon état
+CH0373,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,013,0,Standard,2,110.00,False,20,Lits jumeaux,2,False,True,2018,Bon état
+CH0374,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,014,0,Standard,2,110.00,False,22,Lit double,1,True,True,2020,Bon état
+CH0375,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,015,0,Standard,2,110.00,False,21,Lits jumeaux,2,False,False,2022,Rénovée
+CH0376,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,016,0,Standard,2,110.00,False,20,Lit double,1,True,False,2010,À rénover
+CH0377,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,017,0,Standard,2,110.00,False,22,Lit double,1,True,True,2018,Bon état
+CH0378,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,018,0,Standard,2,110.00,False,23,Lit double,1,False,True,2010,À rénover
+CH0379,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,019,0,Standard,2,110.00,False,23,Lit double,1,True,False,2022,Rénovée
+CH0380,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,020,0,Standard,2,110.00,False,26,Lit double,1,True,False,2024,Rénovée
+CH0381,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,021,0,Standard,2,110.00,False,20,Lits jumeaux,2,False,False,2020,Bon état
+CH0382,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,022,0,Standard,2,110.00,False,26,Lit double,1,False,False,2024,Rénovée
+CH0383,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,023,0,Standard,2,110.00,False,21,Lits jumeaux,2,True,False,2022,Rénovée
+CH0384,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,101,1,Standard,2,110.00,False,26,Lit double,1,False,False,2013,À rénover
+CH0385,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,102,1,Standard,2,110.00,False,24,Lit double,1,False,False,2010,À rénover
+CH0386,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,103,1,Standard,2,110.00,False,20,Lit double,1,False,False,2020,Bon état
+CH0387,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,104,1,Standard,2,110.00,False,25,Lit double,1,True,False,2016,Bon état
+CH0388,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,105,1,Standard,2,110.00,False,23,Lits jumeaux,2,True,False,2022,Rénovée
+CH0389,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,106,1,Standard,2,110.00,False,23,Lits jumeaux,2,True,False,2024,Rénovée
+CH0390,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,107,1,Standard,2,110.00,False,25,Lit double,1,True,False,2018,Bon état
+CH0391,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,108,1,Standard,2,110.00,False,21,Lits jumeaux,2,True,False,2023,Rénovée
+CH0392,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,109,1,Standard,2,110.00,False,26,Lit double,1,False,False,2010,À rénover
+CH0393,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,110,1,Standard,2,110.00,False,22,Lits jumeaux,2,True,False,2024,Rénovée
+CH0394,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,111,1,Standard,2,110.00,False,21,Lits jumeaux,2,False,False,2018,Bon état
+CH0395,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,112,1,Standard,2,110.00,False,25,Lit double,1,False,False,2018,Bon état
+CH0396,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,113,1,Standard,2,110.00,False,21,Lit double,1,False,False,2013,À rénover
+CH0397,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,114,1,Standard,2,110.00,False,23,Lits jumeaux,2,True,False,2024,Rénovée
+CH0398,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,115,1,Standard,2,110.00,False,21,Lit double,1,False,False,2022,Rénovée
+CH0399,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,116,1,Standard,2,110.00,False,24,Lit double,1,False,False,2023,Rénovée
+CH0400,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,117,1,Standard,2,110.00,False,22,Lit double,1,True,False,2020,Bon état
+CH0401,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,118,1,Standard,2,110.00,False,25,Lit double,1,True,False,2023,Rénovée
+CH0402,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,119,1,Standard,2,110.00,False,26,Lits jumeaux,2,True,False,2020,Bon état
+CH0403,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,120,1,Standard,2,110.00,False,21,Lit double,1,True,False,2020,Bon état
+CH0404,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,121,1,Standard,2,110.00,False,26,Lit double,1,True,False,2020,Bon état
+CH0405,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,122,1,Standard,2,110.00,False,25,Lit double,1,True,False,2023,Rénovée
+CH0406,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,123,1,Supérieure,3,150.00,True,31,Lits jumeaux,2,False,False,2020,Bon état
+CH0407,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,201,2,Supérieure,3,150.00,True,33,Lit double,1,False,False,2024,Rénovée
+CH0408,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,202,2,Supérieure,3,150.00,True,33,Lits jumeaux,2,False,False,2020,Bon état
+CH0409,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,203,2,Supérieure,3,150.00,True,28,Lits jumeaux,2,False,False,2018,Bon état
+CH0410,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,204,2,Supérieure,3,150.00,True,29,Lit double,1,True,False,2010,À rénover
+CH0411,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,205,2,Supérieure,3,150.00,True,29,Lit double,1,False,False,2013,À rénover
+CH0412,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,206,2,Supérieure,3,150.00,True,30,Lit double,1,False,False,2023,Rénovée
+CH0413,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,207,2,Supérieure,3,150.00,True,29,Lit king,1,False,False,2023,Rénovée
+CH0414,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,208,2,Supérieure,3,150.00,True,31,Lits jumeaux,2,True,False,2022,Rénovée
+CH0415,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,209,2,Supérieure,3,150.00,True,28,Lits jumeaux,2,True,False,2023,Rénovée
+CH0416,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,210,2,Supérieure,3,150.00,True,27,Lit double,1,False,False,2013,À rénover
+CH0417,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,211,2,Supérieure,3,150.00,True,32,Lit double,1,True,False,2023,Rénovée
+CH0418,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,212,2,Supérieure,3,150.00,True,29,Lit king,1,True,False,2022,Rénovée
+CH0419,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,213,2,Supérieure,3,150.00,True,33,Lit king,1,True,False,2018,Bon état
+CH0420,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,214,2,Supérieure,3,150.00,True,32,Lit double,1,False,False,2016,Bon état
+CH0421,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,215,2,Supérieure,3,150.00,True,29,Lits jumeaux,2,True,False,2020,Bon état
+CH0422,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,216,2,Supérieure,3,150.00,True,33,Lit king,1,True,False,2023,Rénovée
+CH0423,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,217,2,Supérieure,3,150.00,True,34,Lit king,1,True,False,2023,Rénovée
+CH0424,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,218,2,Supérieure,3,150.00,True,32,Lit king,1,True,False,2023,Rénovée
+CH0425,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,219,2,Supérieure,3,150.00,True,34,Lit king,1,False,False,2022,Rénovée
+CH0426,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,220,2,Supérieure,3,150.00,True,28,Lits jumeaux,2,False,False,2020,Bon état
+CH0427,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,221,2,Supérieure,3,150.00,True,30,Lits jumeaux,2,False,False,2010,À rénover
+CH0428,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,222,2,Familiale,5,190.00,False,43,Lit double + 2 lits simples,3,True,False,2013,À rénover
+CH0429,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,223,2,Familiale,5,190.00,False,43,Lit double + canapé-lit,2,True,False,2024,Rénovée
+CH0430,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,301,3,Familiale,5,190.00,False,42,Lit double + 2 lits simples,3,False,False,2018,Bon état
+CH0431,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,302,3,Familiale,5,190.00,False,45,Lit double + 2 lits simples,3,False,False,2024,Rénovée
+CH0432,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,303,3,Familiale,5,190.00,False,38,Lit double + 2 lits simples,3,False,False,2010,À rénover
+CH0433,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,304,3,Familiale,5,190.00,False,37,Lit double + 2 lits simples,3,True,False,2022,Rénovée
+CH0434,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,305,3,Familiale,5,190.00,False,41,Lit double + 2 lits simples,3,True,False,2010,À rénover
+CH0435,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,306,3,Familiale,5,190.00,False,38,Lit double + 2 lits simples,3,True,False,2022,Rénovée
+CH0436,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,307,3,Familiale,5,190.00,False,38,Lit double + canapé-lit,2,True,False,2010,À rénover
+CH0437,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,308,3,Familiale,5,190.00,False,44,Lit double + 2 lits simples,3,True,False,2016,Bon état
+CH0438,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,309,3,Familiale,5,190.00,False,38,Lit double + 2 lits simples,3,False,False,2022,Rénovée
+CH0439,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,310,3,Familiale,5,190.00,False,48,Lit double + canapé-lit,2,True,False,2016,Bon état
+CH0440,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,311,3,Familiale,5,190.00,False,46,Lit double + canapé-lit,2,True,False,2010,À rénover
+CH0441,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,312,3,Familiale,5,190.00,False,45,Lit double + 2 lits simples,3,False,False,2020,Bon état
+CH0442,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,313,3,Suite,4,300.00,True,59,Lit king,1,True,False,2016,Bon état
+CH0443,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,314,3,Suite,4,300.00,True,76,Lit king,1,True,False,2013,À rénover
+CH0444,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,315,3,Suite,4,300.00,True,58,Lit king,1,False,False,2018,Bon état
+CH0445,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,316,3,Suite,4,300.00,True,58,Lit king,1,True,False,2024,Rénovée
+CH0446,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,317,3,Suite,4,300.00,True,58,Lit king,1,True,False,2013,À rénover
+CH0447,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,318,3,Suite,4,300.00,True,61,Lit king,1,True,False,2022,Rénovée
+CH0448,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,319,3,Suite,4,300.00,True,73,Lit king,1,True,False,2023,Rénovée
+CH0449,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,320,3,Suite,4,300.00,True,64,Lit king,1,False,False,2020,Bon état
+CH0450,H05,Palmeraie Djerba,Djerba,Médenine,Sud-Est,4,Balnéaire,2003,321,3,Suite,4,300.00,True,65,Lit king,1,True,False,2018,Bon état
+CH0451,H06,Plage Dorée Mahdia,Mahdia,Mahdia,Sahel,3,Balnéaire,1995,001,0,Standard,2,110.00,False,24,Lit double,1,False,True,2020,Bon état
+CH0452,H06,Plage Dorée Mahdia,Mahdia,Mahdia,Sahel,3,Balnéaire,1995,002,0,Standard,2,110.00,False,22,Lit double,1,True,False,2016,Bon état
+CH0453,H06,Plage Dorée Mahdia,Mahdia,Mahdia,Sahel,3,Balnéaire,1995,003,0,Standard,2,110.00,False,22,Lits jumeaux,2,True,False,2023,Rénovée
+CH0454,H06,Plage Dorée Mahdia,Mahdia,Mahdia,Sahel,3,Balnéaire,1995,004,0,Standard,2,110.00,False,23,Lit double,1,True,False,2013,À rénover
+CH0455,H06,Plage Dorée Mahdia,Mahdia,Mahdia,Sahel,3,Balnéaire,1995,005,0,Standard,2,110.00,False,20,Lits jumeaux,2,True,True,2023,Rénovée
+CH0456,H06,Plage Dorée Mahdia,Mahdia,Mahdia,Sahel,3,Balnéaire,1995,006,0,Standard,2,110.00,False,26,Lit double,1,True,True,2022,Rénovée
+CH0457,H06,Plage Dorée Mahdia,Mahdia,Mahdia,Sahel,3,Balnéaire,1995,007,0,Standard,2,110.00,False,21,Lit double,1,False,False,2016,Bon état
+CH0458,H06,Plage Dorée Mahdia,Mahdia,Mahdia,Sahel,3,Balnéaire,1995,008,0,Standard,2,110.00,False,21,Lit double,1,True,False,2023,Rénovée
+CH0459,H06,Plage Dorée Mahdia,Mahdia,Mahdia,Sahel,3,Balnéaire,1995,009,0,Standard,2,110.00,False,23,Lits jumeaux,2,True,False,2018,Bon état
+CH0460,H06,Plage Dorée Mahdia,Mahdia,Mahdia,Sahel,3,Balnéaire,1995,010,0,Standard,2,110.00,False,25,Lit double,1,True,False,2016,Bon état
+CH0461,H06,Plage Dorée Mahdia,Mahdia,Mahdia,Sahel,3,Balnéaire,1995,011,0,Standard,2,110.00,False,20,Lit double,1,False,False,2016,Bon état
+CH0462,H06,Plage Dorée Mahdia,Mahdia,Mahdia,Sahel,3,Balnéaire,1995,012,0,Standard,2,110.00,False,25,Lits jumeaux,2,True,False,2023,Rénovée
+CH0463,H06,Plage Dorée Mahdia,Mahdia,Mahdia,Sahel,3,Balnéaire,1995,013,0,Standard,2,110.00,False,25,Lit double,1,False,True,2022,Rénovée
+CH0464,H06,Plage Dorée Mahdia,Mahdia,Mahdia,Sahel,3,Balnéaire,1995,014,0,Standard,2,110.00,False,25,Lit double,1,True,True,2016,Bon état
+CH0465,H06,Plage Dorée Mahdia,Mahdia,Mahdia,Sahel,3,Balnéaire,1995,015,0,Standard,2,110.00,False,20,Lit double,1,False,False,2010,À rénover
+CH0466,H06,Plage Dorée Mahdia,Mahdia,Mahdia,Sahel,3,Balnéaire,1995,016,0,Standard,2,110.00,False,25,Lits jumeaux,2,True,False,2018,Bon état
+CH0467,H06,Plage Dorée Mahdia,Mahdia,Mahdia,Sahel,3,Balnéaire,1995,017,0,Standard,2,110.00,False,24,Lits jumeaux,2,True,False,2020,Bon état
+CH0468,H06,Plage Dorée Mahdia,Mahdia,Mahdia,Sahel,3,Balnéaire,1995,018,0,Standard,2,110.00,False,26,Lits jumeaux,2,False,False,2010,À rénover
+CH0469,H06,Plage Dorée Mahdia,Mahdia,Mahdia,Sahel,3,Balnéaire,1995,019,0,Standard,2,110.00,False,21,Lit double,1,False,False,2022,Rénovée
+CH0470,H06,Plage Dorée Mahdia,Mahdia,Mahdia,Sahel,3,Balnéaire,1995,020,0,Standard,2,110.00,False,24,Lits jumeaux,2,False,False,2023,Rénovée
+CH0471,H06,Plage Dorée Mahdia,Mahdia,Mahdia,Sahel,3,Balnéaire,1995,101,1,Standard,2,110.00,False,23,Lit double,1,False,False,2024,Rénovée
+CH0472,H06,Plage Dorée Mahdia,Mahdia,Mahdia,Sahel,3,Balnéaire,1995,102,1,Standard,2,110.00,False,22,Lits jumeaux,2,False,False,2022,Rénovée
+CH0473,H06,Plage Dorée Mahdia,Mahdia,Mahdia,Sahel,3,Balnéaire,1995,103,1,Standard,2,110.00,False,23,Lits jumeaux,2,False,False,2016,Bon état
+CH0474,H06,Plage Dorée Mahdia,Mahdia,Mahdia,Sahel,3,Balnéaire,1995,104,1,Standard,2,110.00,False,21,Lit double,1,True,False,2013,À rénover
+CH0475,H06,Plage Dorée Mahdia,Mahdia,Mahdia,Sahel,3,Balnéaire,1995,105,1,Standard,2,110.00,False,25,Lit double,1,True,False,2016,Bon état
+CH0476,H06,Plage Dorée Mahdia,Mahdia,Mahdia,Sahel,3,Balnéaire,1995,106,1,Standard,2,110.00,False,21,Lits jumeaux,2,False,False,2010,À rénover
+CH0477,H06,Plage Dorée Mahdia,Mahdia,Mahdia,Sahel,3,Balnéaire,1995,107,1,Standard,2,110.00,False,26,Lit double,1,True,False,2016,Bon état
+CH0478,H06,Plage Dorée Mahdia,Mahdia,Mahdia,Sahel,3,Balnéaire,1995,108,1,Standard,2,110.00,False,23,Lit double,1,True,False,2018,Bon état
+CH0479,H06,Plage Dorée Mahdia,Mahdia,Mahdia,Sahel,3,Balnéaire,1995,109,1,Standard,2,110.00,False,20,Lit double,1,False,False,2013,À rénover
+CH0480,H06,Plage Dorée Mahdia,Mahdia,Mahdia,Sahel,3,Balnéaire,1995,110,1,Standard,2,110.00,False,22,Lits jumeaux,2,False,False,2010,À rénover
+CH0481,H06,Plage Dorée Mahdia,Mahdia,Mahdia,Sahel,3,Balnéaire,1995,111,1,Supérieure,3,150.00,True,33,Lits jumeaux,2,True,False,2022,Rénovée
+CH0482,H06,Plage Dorée Mahdia,Mahdia,Mahdia,Sahel,3,Balnéaire,1995,112,1,Supérieure,3,150.00,True,27,Lit king,1,True,False,2023,Rénovée
+CH0483,H06,Plage Dorée Mahdia,Mahdia,Mahdia,Sahel,3,Balnéaire,1995,113,1,Supérieure,3,150.00,True,26,Lits jumeaux,2,False,False,2024,Rénovée
+CH0484,H06,Plage Dorée Mahdia,Mahdia,Mahdia,Sahel,3,Balnéaire,1995,114,1,Supérieure,3,150.00,True,27,Lit double,1,False,False,2016,Bon état
+CH0485,H06,Plage Dorée Mahdia,Mahdia,Mahdia,Sahel,3,Balnéaire,1995,115,1,Supérieure,3,150.00,True,29,Lits jumeaux,2,False,False,2018,Bon état
+CH0486,H06,Plage Dorée Mahdia,Mahdia,Mahdia,Sahel,3,Balnéaire,1995,116,1,Supérieure,3,150.00,True,30,Lit double,1,True,False,2022,Rénovée
+CH0487,H06,Plage Dorée Mahdia,Mahdia,Mahdia,Sahel,3,Balnéaire,1995,117,1,Supérieure,3,150.00,True,33,Lit king,1,True,False,2013,À rénover
+CH0488,H06,Plage Dorée Mahdia,Mahdia,Mahdia,Sahel,3,Balnéaire,1995,118,1,Supérieure,3,150.00,True,28,Lit king,1,True,False,2013,À rénover
+CH0489,H06,Plage Dorée Mahdia,Mahdia,Mahdia,Sahel,3,Balnéaire,1995,119,1,Supérieure,3,150.00,True,33,Lit double,1,False,False,2013,À rénover
+CH0490,H06,Plage Dorée Mahdia,Mahdia,Mahdia,Sahel,3,Balnéaire,1995,120,1,Supérieure,3,150.00,True,26,Lit king,1,False,False,2023,Rénovée
+CH0491,H06,Plage Dorée Mahdia,Mahdia,Mahdia,Sahel,3,Balnéaire,1995,201,2,Supérieure,3,150.00,True,34,Lits jumeaux,2,True,False,2022,Rénovée
+CH0492,H06,Plage Dorée Mahdia,Mahdia,Mahdia,Sahel,3,Balnéaire,1995,202,2,Supérieure,3,150.00,True,31,Lit double,1,False,False,2018,Bon état
+CH0493,H06,Plage Dorée Mahdia,Mahdia,Mahdia,Sahel,3,Balnéaire,1995,203,2,Supérieure,3,150.00,True,28,Lit double,1,False,False,2023,Rénovée
+CH0494,H06,Plage Dorée Mahdia,Mahdia,Mahdia,Sahel,3,Balnéaire,1995,204,2,Supérieure,3,150.00,True,32,Lit double,1,True,False,2024,Rénovée
+CH0495,H06,Plage Dorée Mahdia,Mahdia,Mahdia,Sahel,3,Balnéaire,1995,205,2,Supérieure,3,150.00,True,34,Lit double,1,True,False,2024,Rénovée
+CH0496,H06,Plage Dorée Mahdia,Mahdia,Mahdia,Sahel,3,Balnéaire,1995,206,2,Familiale,5,190.00,False,38,Lit double + 2 lits simples,3,False,False,2023,Rénovée
+CH0497,H06,Plage Dorée Mahdia,Mahdia,Mahdia,Sahel,3,Balnéaire,1995,207,2,Familiale,5,190.00,False,48,Lit double + 2 lits simples,3,True,False,2016,Bon état
+CH0498,H06,Plage Dorée Mahdia,Mahdia,Mahdia,Sahel,3,Balnéaire,1995,208,2,Familiale,5,190.00,False,42,Lit double + 2 lits simples,3,True,False,2010,À rénover
+CH0499,H06,Plage Dorée Mahdia,Mahdia,Mahdia,Sahel,3,Balnéaire,1995,209,2,Familiale,5,190.00,False,48,Lit double + 2 lits simples,3,True,False,2018,Bon état
+CH0500,H06,Plage Dorée Mahdia,Mahdia,Mahdia,Sahel,3,Balnéaire,1995,210,2,Familiale,5,190.00,False,45,Lit double + 2 lits simples,3,False,False,2020,Bon état
+CH0501,H06,Plage Dorée Mahdia,Mahdia,Mahdia,Sahel,3,Balnéaire,1995,211,2,Familiale,5,190.00,False,48,Lit double + 2 lits simples,3,True,False,2020,Bon état
+CH0502,H06,Plage Dorée Mahdia,Mahdia,Mahdia,Sahel,3,Balnéaire,1995,212,2,Familiale,5,190.00,False,48,Lit double + canapé-lit,2,True,False,2023,Rénovée
+CH0503,H06,Plage Dorée Mahdia,Mahdia,Mahdia,Sahel,3,Balnéaire,1995,213,2,Familiale,5,190.00,False,40,Lit double + canapé-lit,2,False,False,2020,Bon état
+CH0504,H06,Plage Dorée Mahdia,Mahdia,Mahdia,Sahel,3,Balnéaire,1995,214,2,Familiale,5,190.00,False,46,Lit double + canapé-lit,2,True,False,2018,Bon état
+CH0505,H06,Plage Dorée Mahdia,Mahdia,Mahdia,Sahel,3,Balnéaire,1995,215,2,Suite,4,300.00,True,80,Lit king,1,True,False,2010,À rénover
+CH0506,H06,Plage Dorée Mahdia,Mahdia,Mahdia,Sahel,3,Balnéaire,1995,216,2,Suite,4,300.00,True,56,Lit king,1,True,False,2022,Rénovée
+CH0507,H06,Plage Dorée Mahdia,Mahdia,Mahdia,Sahel,3,Balnéaire,1995,217,2,Suite,4,300.00,True,60,Lit king,1,True,False,2020,Bon état
+CH0508,H06,Plage Dorée Mahdia,Mahdia,Mahdia,Sahel,3,Balnéaire,1995,218,2,Suite,4,300.00,True,74,Lit king,1,True,False,2010,À rénover
+CH0509,H06,Plage Dorée Mahdia,Mahdia,Mahdia,Sahel,3,Balnéaire,1995,219,2,Suite,4,300.00,True,66,Lit king,1,False,False,2016,Bon état
+CH0510,H06,Plage Dorée Mahdia,Mahdia,Mahdia,Sahel,3,Balnéaire,1995,220,2,Suite,4,300.00,True,76,Lit king,1,True,False,2023,Rénovée
+CH0511,H07,Cap Horizon Kélibia,Kélibia,Nabeul,Cap Bon,3,Balnéaire,2008,001,0,Standard,2,110.00,False,24,Lits jumeaux,2,False,False,2022,Rénovée
+CH0512,H07,Cap Horizon Kélibia,Kélibia,Nabeul,Cap Bon,3,Balnéaire,2008,002,0,Standard,2,110.00,False,24,Lit double,1,False,False,2018,Bon état
+CH0513,H07,Cap Horizon Kélibia,Kélibia,Nabeul,Cap Bon,3,Balnéaire,2008,003,0,Standard,2,110.00,False,24,Lits jumeaux,2,True,False,2020,Bon état
+CH0514,H07,Cap Horizon Kélibia,Kélibia,Nabeul,Cap Bon,3,Balnéaire,2008,004,0,Standard,2,110.00,False,25,Lit double,1,False,False,2010,À rénover
+CH0515,H07,Cap Horizon Kélibia,Kélibia,Nabeul,Cap Bon,3,Balnéaire,2008,005,0,Standard,2,110.00,False,24,Lits jumeaux,2,False,False,2022,Rénovée
+CH0516,H07,Cap Horizon Kélibia,Kélibia,Nabeul,Cap Bon,3,Balnéaire,2008,006,0,Standard,2,110.00,False,23,Lit double,1,False,False,2020,Bon état
+CH0517,H07,Cap Horizon Kélibia,Kélibia,Nabeul,Cap Bon,3,Balnéaire,2008,007,0,Standard,2,110.00,False,23,Lits jumeaux,2,False,False,2023,Rénovée
+CH0518,H07,Cap Horizon Kélibia,Kélibia,Nabeul,Cap Bon,3,Balnéaire,2008,008,0,Standard,2,110.00,False,21,Lits jumeaux,2,False,True,2016,Bon état
+CH0519,H07,Cap Horizon Kélibia,Kélibia,Nabeul,Cap Bon,3,Balnéaire,2008,009,0,Standard,2,110.00,False,21,Lits jumeaux,2,True,True,2023,Rénovée
+CH0520,H07,Cap Horizon Kélibia,Kélibia,Nabeul,Cap Bon,3,Balnéaire,2008,010,0,Standard,2,110.00,False,24,Lits jumeaux,2,True,False,2018,Bon état
+CH0521,H07,Cap Horizon Kélibia,Kélibia,Nabeul,Cap Bon,3,Balnéaire,2008,011,0,Standard,2,110.00,False,21,Lits jumeaux,2,True,True,2018,Bon état
+CH0522,H07,Cap Horizon Kélibia,Kélibia,Nabeul,Cap Bon,3,Balnéaire,2008,012,0,Standard,2,110.00,False,23,Lit double,1,True,True,2013,À rénover
+CH0523,H07,Cap Horizon Kélibia,Kélibia,Nabeul,Cap Bon,3,Balnéaire,2008,013,0,Standard,2,110.00,False,24,Lit double,1,True,False,2020,Bon état
+CH0524,H07,Cap Horizon Kélibia,Kélibia,Nabeul,Cap Bon,3,Balnéaire,2008,014,0,Standard,2,110.00,False,21,Lit double,1,False,False,2018,Bon état
+CH0525,H07,Cap Horizon Kélibia,Kélibia,Nabeul,Cap Bon,3,Balnéaire,2008,015,0,Standard,2,110.00,False,25,Lits jumeaux,2,True,True,2020,Bon état
+CH0526,H07,Cap Horizon Kélibia,Kélibia,Nabeul,Cap Bon,3,Balnéaire,2008,016,0,Standard,2,110.00,False,22,Lits jumeaux,2,True,False,2016,Bon état
+CH0527,H07,Cap Horizon Kélibia,Kélibia,Nabeul,Cap Bon,3,Balnéaire,2008,017,0,Standard,2,110.00,False,24,Lit double,1,False,False,2018,Bon état
+CH0528,H07,Cap Horizon Kélibia,Kélibia,Nabeul,Cap Bon,3,Balnéaire,2008,101,1,Standard,2,110.00,False,25,Lits jumeaux,2,False,False,2020,Bon état
+CH0529,H07,Cap Horizon Kélibia,Kélibia,Nabeul,Cap Bon,3,Balnéaire,2008,102,1,Standard,2,110.00,False,26,Lits jumeaux,2,True,False,2024,Rénovée
+CH0530,H07,Cap Horizon Kélibia,Kélibia,Nabeul,Cap Bon,3,Balnéaire,2008,103,1,Standard,2,110.00,False,21,Lit double,1,False,False,2023,Rénovée
+CH0531,H07,Cap Horizon Kélibia,Kélibia,Nabeul,Cap Bon,3,Balnéaire,2008,104,1,Standard,2,110.00,False,24,Lit double,1,True,False,2023,Rénovée
+CH0532,H07,Cap Horizon Kélibia,Kélibia,Nabeul,Cap Bon,3,Balnéaire,2008,105,1,Standard,2,110.00,False,26,Lit double,1,True,False,2010,À rénover
+CH0533,H07,Cap Horizon Kélibia,Kélibia,Nabeul,Cap Bon,3,Balnéaire,2008,106,1,Standard,2,110.00,False,21,Lit double,1,False,False,2010,À rénover
+CH0534,H07,Cap Horizon Kélibia,Kélibia,Nabeul,Cap Bon,3,Balnéaire,2008,107,1,Standard,2,110.00,False,26,Lit double,1,False,False,2024,Rénovée
+CH0535,H07,Cap Horizon Kélibia,Kélibia,Nabeul,Cap Bon,3,Balnéaire,2008,108,1,Standard,2,110.00,False,23,Lit double,1,False,False,2018,Bon état
+CH0536,H07,Cap Horizon Kélibia,Kélibia,Nabeul,Cap Bon,3,Balnéaire,2008,109,1,Supérieure,3,150.00,True,29,Lit king,1,True,False,2016,Bon état
+CH0537,H07,Cap Horizon Kélibia,Kélibia,Nabeul,Cap Bon,3,Balnéaire,2008,110,1,Supérieure,3,150.00,True,30,Lit double,1,True,False,2013,À rénover
+CH0538,H07,Cap Horizon Kélibia,Kélibia,Nabeul,Cap Bon,3,Balnéaire,2008,111,1,Supérieure,3,150.00,True,30,Lit king,1,False,False,2010,À rénover
+CH0539,H07,Cap Horizon Kélibia,Kélibia,Nabeul,Cap Bon,3,Balnéaire,2008,112,1,Supérieure,3,150.00,True,29,Lit king,1,True,False,2023,Rénovée
+CH0540,H07,Cap Horizon Kélibia,Kélibia,Nabeul,Cap Bon,3,Balnéaire,2008,113,1,Supérieure,3,150.00,True,27,Lits jumeaux,2,True,False,2016,Bon état
+CH0541,H07,Cap Horizon Kélibia,Kélibia,Nabeul,Cap Bon,3,Balnéaire,2008,114,1,Supérieure,3,150.00,True,27,Lits jumeaux,2,True,False,2022,Rénovée
+CH0542,H07,Cap Horizon Kélibia,Kélibia,Nabeul,Cap Bon,3,Balnéaire,2008,115,1,Supérieure,3,150.00,True,33,Lit double,1,True,False,2010,À rénover
+CH0543,H07,Cap Horizon Kélibia,Kélibia,Nabeul,Cap Bon,3,Balnéaire,2008,116,1,Supérieure,3,150.00,True,30,Lit double,1,True,False,2010,À rénover
+CH0544,H07,Cap Horizon Kélibia,Kélibia,Nabeul,Cap Bon,3,Balnéaire,2008,117,1,Supérieure,3,150.00,True,27,Lit double,1,True,False,2022,Rénovée
+CH0545,H07,Cap Horizon Kélibia,Kélibia,Nabeul,Cap Bon,3,Balnéaire,2008,201,2,Supérieure,3,150.00,True,27,Lit double,1,True,False,2016,Bon état
+CH0546,H07,Cap Horizon Kélibia,Kélibia,Nabeul,Cap Bon,3,Balnéaire,2008,202,2,Supérieure,3,150.00,True,28,Lits jumeaux,2,False,False,2020,Bon état
+CH0547,H07,Cap Horizon Kélibia,Kélibia,Nabeul,Cap Bon,3,Balnéaire,2008,203,2,Supérieure,3,150.00,True,28,Lit double,1,True,False,2010,À rénover
+CH0548,H07,Cap Horizon Kélibia,Kélibia,Nabeul,Cap Bon,3,Balnéaire,2008,204,2,Familiale,5,190.00,False,44,Lit double + 2 lits simples,3,True,False,2020,Bon état
+CH0549,H07,Cap Horizon Kélibia,Kélibia,Nabeul,Cap Bon,3,Balnéaire,2008,205,2,Familiale,5,190.00,False,37,Lit double + canapé-lit,2,True,False,2016,Bon état
+CH0550,H07,Cap Horizon Kélibia,Kélibia,Nabeul,Cap Bon,3,Balnéaire,2008,206,2,Familiale,5,190.00,False,36,Lit double + canapé-lit,2,True,False,2020,Bon état
+CH0551,H07,Cap Horizon Kélibia,Kélibia,Nabeul,Cap Bon,3,Balnéaire,2008,207,2,Familiale,5,190.00,False,41,Lit double + 2 lits simples,3,False,False,2022,Rénovée
+CH0552,H07,Cap Horizon Kélibia,Kélibia,Nabeul,Cap Bon,3,Balnéaire,2008,208,2,Familiale,5,190.00,False,36,Lit double + 2 lits simples,3,True,False,2018,Bon état
+CH0553,H07,Cap Horizon Kélibia,Kélibia,Nabeul,Cap Bon,3,Balnéaire,2008,209,2,Familiale,5,190.00,False,40,Lit double + canapé-lit,2,True,False,2023,Rénovée
+CH0554,H07,Cap Horizon Kélibia,Kélibia,Nabeul,Cap Bon,3,Balnéaire,2008,210,2,Familiale,5,190.00,False,41,Lit double + 2 lits simples,3,True,False,2022,Rénovée
+CH0555,H07,Cap Horizon Kélibia,Kélibia,Nabeul,Cap Bon,3,Balnéaire,2008,211,2,Familiale,5,190.00,False,44,Lit double + 2 lits simples,3,True,False,2024,Rénovée
+CH0556,H07,Cap Horizon Kélibia,Kélibia,Nabeul,Cap Bon,3,Balnéaire,2008,212,2,Suite,4,300.00,True,66,Lit king,1,True,False,2020,Bon état
+CH0557,H07,Cap Horizon Kélibia,Kélibia,Nabeul,Cap Bon,3,Balnéaire,2008,213,2,Suite,4,300.00,True,76,Lit king,1,True,False,2016,Bon état
+CH0558,H07,Cap Horizon Kélibia,Kélibia,Nabeul,Cap Bon,3,Balnéaire,2008,214,2,Suite,4,300.00,True,79,Lit king,1,True,False,2018,Bon état
+CH0559,H07,Cap Horizon Kélibia,Kélibia,Nabeul,Cap Bon,3,Balnéaire,2008,215,2,Suite,4,300.00,True,74,Lit king,1,True,False,2022,Rénovée
+CH0560,H07,Cap Horizon Kélibia,Kélibia,Nabeul,Cap Bon,3,Balnéaire,2008,216,2,Suite,4,300.00,True,74,Lit king,1,False,False,2010,À rénover
+CH0561,H08,Marina Monastir,Monastir,Monastir,Sahel,4,Balnéaire,2012,001,0,Standard,2,110.00,False,26,Lits jumeaux,2,True,False,2020,Bon état
+CH0562,H08,Marina Monastir,Monastir,Monastir,Sahel,4,Balnéaire,2012,002,0,Standard,2,110.00,False,23,Lit double,1,True,False,2024,Rénovée
+CH0563,H08,Marina Monastir,Monastir,Monastir,Sahel,4,Balnéaire,2012,003,0,Standard,2,110.00,False,21,Lits jumeaux,2,True,True,2020,Bon état
+CH0564,H08,Marina Monastir,Monastir,Monastir,Sahel,4,Balnéaire,2012,004,0,Standard,2,110.00,False,26,Lits jumeaux,2,True,False,2012,À rénover
+CH0565,H08,Marina Monastir,Monastir,Monastir,Sahel,4,Balnéaire,2012,005,0,Standard,2,110.00,False,20,Lits jumeaux,2,True,False,2020,Bon état
+CH0566,H08,Marina Monastir,Monastir,Monastir,Sahel,4,Balnéaire,2012,006,0,Standard,2,110.00,False,26,Lits jumeaux,2,False,False,2020,Bon état
+CH0567,H08,Marina Monastir,Monastir,Monastir,Sahel,4,Balnéaire,2012,007,0,Standard,2,110.00,False,26,Lits jumeaux,2,True,False,2013,À rénover
+CH0568,H08,Marina Monastir,Monastir,Monastir,Sahel,4,Balnéaire,2012,008,0,Standard,2,110.00,False,22,Lits jumeaux,2,True,False,2022,Rénovée
+CH0569,H08,Marina Monastir,Monastir,Monastir,Sahel,4,Balnéaire,2012,009,0,Standard,2,110.00,False,23,Lits jumeaux,2,False,False,2016,Bon état
+CH0570,H08,Marina Monastir,Monastir,Monastir,Sahel,4,Balnéaire,2012,010,0,Standard,2,110.00,False,21,Lits jumeaux,2,False,False,2022,Rénovée
+CH0571,H08,Marina Monastir,Monastir,Monastir,Sahel,4,Balnéaire,2012,011,0,Standard,2,110.00,False,20,Lits jumeaux,2,True,False,2013,À rénover
+CH0572,H08,Marina Monastir,Monastir,Monastir,Sahel,4,Balnéaire,2012,012,0,Standard,2,110.00,False,24,Lits jumeaux,2,True,True,2024,Rénovée
+CH0573,H08,Marina Monastir,Monastir,Monastir,Sahel,4,Balnéaire,2012,013,0,Standard,2,110.00,False,22,Lits jumeaux,2,False,False,2016,Bon état
+CH0574,H08,Marina Monastir,Monastir,Monastir,Sahel,4,Balnéaire,2012,014,0,Standard,2,110.00,False,20,Lit double,1,False,False,2016,Bon état
+CH0575,H08,Marina Monastir,Monastir,Monastir,Sahel,4,Balnéaire,2012,015,0,Standard,2,110.00,False,20,Lits jumeaux,2,True,True,2023,Rénovée
+CH0576,H08,Marina Monastir,Monastir,Monastir,Sahel,4,Balnéaire,2012,016,0,Standard,2,110.00,False,23,Lit double,1,False,False,2024,Rénovée
+CH0577,H08,Marina Monastir,Monastir,Monastir,Sahel,4,Balnéaire,2012,017,0,Standard,2,110.00,False,25,Lits jumeaux,2,True,True,2024,Rénovée
+CH0578,H08,Marina Monastir,Monastir,Monastir,Sahel,4,Balnéaire,2012,018,0,Standard,2,110.00,False,21,Lits jumeaux,2,True,False,2023,Rénovée
+CH0579,H08,Marina Monastir,Monastir,Monastir,Sahel,4,Balnéaire,2012,019,0,Standard,2,110.00,False,22,Lits jumeaux,2,True,True,2022,Rénovée
+CH0580,H08,Marina Monastir,Monastir,Monastir,Sahel,4,Balnéaire,2012,020,0,Standard,2,110.00,False,20,Lit double,1,False,False,2012,À rénover
+CH0581,H08,Marina Monastir,Monastir,Monastir,Sahel,4,Balnéaire,2012,101,1,Standard,2,110.00,False,20,Lit double,1,False,False,2022,Rénovée
+CH0582,H08,Marina Monastir,Monastir,Monastir,Sahel,4,Balnéaire,2012,102,1,Standard,2,110.00,False,25,Lit double,1,True,False,2013,À rénover
+CH0583,H08,Marina Monastir,Monastir,Monastir,Sahel,4,Balnéaire,2012,103,1,Standard,2,110.00,False,25,Lit double,1,False,False,2013,À rénover
+CH0584,H08,Marina Monastir,Monastir,Monastir,Sahel,4,Balnéaire,2012,104,1,Standard,2,110.00,False,22,Lits jumeaux,2,False,False,2012,À rénover
+CH0585,H08,Marina Monastir,Monastir,Monastir,Sahel,4,Balnéaire,2012,105,1,Standard,2,110.00,False,20,Lits jumeaux,2,False,False,2018,Bon état
+CH0586,H08,Marina Monastir,Monastir,Monastir,Sahel,4,Balnéaire,2012,106,1,Standard,2,110.00,False,20,Lit double,1,False,False,2018,Bon état
+CH0587,H08,Marina Monastir,Monastir,Monastir,Sahel,4,Balnéaire,2012,107,1,Standard,2,110.00,False,26,Lits jumeaux,2,True,False,2022,Rénovée
+CH0588,H08,Marina Monastir,Monastir,Monastir,Sahel,4,Balnéaire,2012,108,1,Standard,2,110.00,False,22,Lit double,1,True,False,2022,Rénovée
+CH0589,H08,Marina Monastir,Monastir,Monastir,Sahel,4,Balnéaire,2012,109,1,Standard,2,110.00,False,21,Lit double,1,False,False,2013,À rénover
+CH0590,H08,Marina Monastir,Monastir,Monastir,Sahel,4,Balnéaire,2012,110,1,Standard,2,110.00,False,21,Lit double,1,True,False,2022,Rénovée
+CH0591,H08,Marina Monastir,Monastir,Monastir,Sahel,4,Balnéaire,2012,111,1,Standard,2,110.00,False,22,Lit double,1,True,False,2022,Rénovée
+CH0592,H08,Marina Monastir,Monastir,Monastir,Sahel,4,Balnéaire,2012,112,1,Standard,2,110.00,False,23,Lits jumeaux,2,True,False,2018,Bon état
+CH0593,H08,Marina Monastir,Monastir,Monastir,Sahel,4,Balnéaire,2012,113,1,Standard,2,110.00,False,24,Lit double,1,False,False,2022,Rénovée
+CH0594,H08,Marina Monastir,Monastir,Monastir,Sahel,4,Balnéaire,2012,114,1,Standard,2,110.00,False,26,Lit double,1,True,False,2013,À rénover
+CH0595,H08,Marina Monastir,Monastir,Monastir,Sahel,4,Balnéaire,2012,115,1,Standard,2,110.00,False,21,Lit double,1,False,False,2023,Rénovée
+CH0596,H08,Marina Monastir,Monastir,Monastir,Sahel,4,Balnéaire,2012,116,1,Standard,2,110.00,False,25,Lits jumeaux,2,True,False,2012,À rénover
+CH0597,H08,Marina Monastir,Monastir,Monastir,Sahel,4,Balnéaire,2012,117,1,Standard,2,110.00,False,21,Lit double,1,False,False,2016,Bon état
+CH0598,H08,Marina Monastir,Monastir,Monastir,Sahel,4,Balnéaire,2012,118,1,Standard,2,110.00,False,20,Lit double,1,True,False,2024,Rénovée
+CH0599,H08,Marina Monastir,Monastir,Monastir,Sahel,4,Balnéaire,2012,119,1,Standard,2,110.00,False,22,Lits jumeaux,2,False,False,2018,Bon état
+CH0600,H08,Marina Monastir,Monastir,Monastir,Sahel,4,Balnéaire,2012,120,1,Standard,2,110.00,False,20,Lit double,1,True,False,2023,Rénovée
+CH0601,H08,Marina Monastir,Monastir,Monastir,Sahel,4,Balnéaire,2012,201,2,Supérieure,3,150.00,True,30,Lit double,1,True,False,2016,Bon état
+CH0602,H08,Marina Monastir,Monastir,Monastir,Sahel,4,Balnéaire,2012,202,2,Supérieure,3,150.00,True,29,Lit king,1,True,False,2012,À rénover
+CH0603,H08,Marina Monastir,Monastir,Monastir,Sahel,4,Balnéaire,2012,203,2,Supérieure,3,150.00,True,32,Lits jumeaux,2,True,False,2020,Bon état
+CH0604,H08,Marina Monastir,Monastir,Monastir,Sahel,4,Balnéaire,2012,204,2,Supérieure,3,150.00,True,34,Lit king,1,False,False,2012,À rénover
+CH0605,H08,Marina Monastir,Monastir,Monastir,Sahel,4,Balnéaire,2012,205,2,Supérieure,3,150.00,True,32,Lit king,1,True,False,2022,Rénovée
+CH0606,H08,Marina Monastir,Monastir,Monastir,Sahel,4,Balnéaire,2012,206,2,Supérieure,3,150.00,True,30,Lit king,1,True,False,2013,À rénover
+CH0607,H08,Marina Monastir,Monastir,Monastir,Sahel,4,Balnéaire,2012,207,2,Supérieure,3,150.00,True,31,Lit double,1,False,False,2024,Rénovée
+CH0608,H08,Marina Monastir,Monastir,Monastir,Sahel,4,Balnéaire,2012,208,2,Supérieure,3,150.00,True,26,Lit king,1,True,False,2018,Bon état
+CH0609,H08,Marina Monastir,Monastir,Monastir,Sahel,4,Balnéaire,2012,209,2,Supérieure,3,150.00,True,29,Lits jumeaux,2,True,False,2016,Bon état
+CH0610,H08,Marina Monastir,Monastir,Monastir,Sahel,4,Balnéaire,2012,210,2,Supérieure,3,150.00,True,33,Lit king,1,True,False,2022,Rénovée
+CH0611,H08,Marina Monastir,Monastir,Monastir,Sahel,4,Balnéaire,2012,211,2,Supérieure,3,150.00,True,30,Lit king,1,True,False,2024,Rénovée
+CH0612,H08,Marina Monastir,Monastir,Monastir,Sahel,4,Balnéaire,2012,212,2,Supérieure,3,150.00,True,29,Lit king,1,True,False,2023,Rénovée
+CH0613,H08,Marina Monastir,Monastir,Monastir,Sahel,4,Balnéaire,2012,213,2,Supérieure,3,150.00,True,28,Lit double,1,True,False,2022,Rénovée
+CH0614,H08,Marina Monastir,Monastir,Monastir,Sahel,4,Balnéaire,2012,214,2,Supérieure,3,150.00,True,29,Lits jumeaux,2,False,False,2022,Rénovée
+CH0615,H08,Marina Monastir,Monastir,Monastir,Sahel,4,Balnéaire,2012,215,2,Supérieure,3,150.00,True,27,Lits jumeaux,2,False,False,2020,Bon état
+CH0616,H08,Marina Monastir,Monastir,Monastir,Sahel,4,Balnéaire,2012,216,2,Supérieure,3,150.00,True,34,Lit king,1,False,False,2020,Bon état
+CH0617,H08,Marina Monastir,Monastir,Monastir,Sahel,4,Balnéaire,2012,217,2,Supérieure,3,150.00,True,26,Lits jumeaux,2,False,False,2020,Bon état
+CH0618,H08,Marina Monastir,Monastir,Monastir,Sahel,4,Balnéaire,2012,218,2,Supérieure,3,150.00,True,26,Lit king,1,True,False,2016,Bon état
+CH0619,H08,Marina Monastir,Monastir,Monastir,Sahel,4,Balnéaire,2012,219,2,Supérieure,3,150.00,True,31,Lit double,1,False,False,2013,À rénover
+CH0620,H08,Marina Monastir,Monastir,Monastir,Sahel,4,Balnéaire,2012,220,2,Supérieure,3,150.00,True,31,Lits jumeaux,2,False,False,2013,À rénover
+CH0621,H08,Marina Monastir,Monastir,Monastir,Sahel,4,Balnéaire,2012,301,3,Familiale,5,190.00,False,45,Lit double + canapé-lit,2,False,False,2018,Bon état
+CH0622,H08,Marina Monastir,Monastir,Monastir,Sahel,4,Balnéaire,2012,302,3,Familiale,5,190.00,False,38,Lit double + 2 lits simples,3,True,False,2020,Bon état
+CH0623,H08,Marina Monastir,Monastir,Monastir,Sahel,4,Balnéaire,2012,303,3,Familiale,5,190.00,False,40,Lit double + 2 lits simples,3,True,False,2016,Bon état
+CH0624,H08,Marina Monastir,Monastir,Monastir,Sahel,4,Balnéaire,2012,304,3,Familiale,5,190.00,False,38,Lit double + 2 lits simples,3,True,False,2016,Bon état
+CH0625,H08,Marina Monastir,Monastir,Monastir,Sahel,4,Balnéaire,2012,305,3,Familiale,5,190.00,False,38,Lit double + canapé-lit,2,False,False,2012,À rénover
+CH0626,H08,Marina Monastir,Monastir,Monastir,Sahel,4,Balnéaire,2012,306,3,Familiale,5,190.00,False,45,Lit double + 2 lits simples,3,True,False,2022,Rénovée
+CH0627,H08,Marina Monastir,Monastir,Monastir,Sahel,4,Balnéaire,2012,307,3,Familiale,5,190.00,False,47,Lit double + 2 lits simples,3,False,False,2024,Rénovée
+CH0628,H08,Marina Monastir,Monastir,Monastir,Sahel,4,Balnéaire,2012,308,3,Familiale,5,190.00,False,36,Lit double + 2 lits simples,3,True,False,2016,Bon état
+CH0629,H08,Marina Monastir,Monastir,Monastir,Sahel,4,Balnéaire,2012,309,3,Familiale,5,190.00,False,37,Lit double + 2 lits simples,3,True,False,2020,Bon état
+CH0630,H08,Marina Monastir,Monastir,Monastir,Sahel,4,Balnéaire,2012,310,3,Familiale,5,190.00,False,40,Lit double + 2 lits simples,3,False,False,2018,Bon état
+CH0631,H08,Marina Monastir,Monastir,Monastir,Sahel,4,Balnéaire,2012,311,3,Familiale,5,190.00,False,41,Lit double + 2 lits simples,3,True,False,2024,Rénovée
+CH0632,H08,Marina Monastir,Monastir,Monastir,Sahel,4,Balnéaire,2012,312,3,Familiale,5,190.00,False,41,Lit double + 2 lits simples,3,True,False,2022,Rénovée
+CH0633,H08,Marina Monastir,Monastir,Monastir,Sahel,4,Balnéaire,2012,313,3,Suite,4,300.00,True,75,Lit king,1,False,False,2016,Bon état
+CH0634,H08,Marina Monastir,Monastir,Monastir,Sahel,4,Balnéaire,2012,314,3,Suite,4,300.00,True,66,Lit king,1,True,False,2024,Rénovée
+CH0635,H08,Marina Monastir,Monastir,Monastir,Sahel,4,Balnéaire,2012,315,3,Suite,4,300.00,True,73,Lit king,1,True,False,2020,Bon état
+CH0636,H08,Marina Monastir,Monastir,Monastir,Sahel,4,Balnéaire,2012,316,3,Suite,4,300.00,True,54,Lit king,1,True,False,2012,À rénover
+CH0637,H08,Marina Monastir,Monastir,Monastir,Sahel,4,Balnéaire,2012,317,3,Suite,4,300.00,True,55,Lit king,1,True,False,2023,Rénovée
+CH0638,H08,Marina Monastir,Monastir,Monastir,Sahel,4,Balnéaire,2012,318,3,Suite,4,300.00,True,68,Lit king,1,True,False,2018,Bon état
+CH0639,H08,Marina Monastir,Monastir,Monastir,Sahel,4,Balnéaire,2012,319,3,Suite,4,300.00,True,60,Lit king,1,True,False,2013,À rénover
+CH0640,H08,Marina Monastir,Monastir,Monastir,Sahel,4,Balnéaire,2012,320,3,Suite,4,300.00,True,56,Lit king,1,False,False,2016,Bon état
+CH0641,H09,Forêt et Corail Tabarka,Tabarka,Jendouba,Nord-Ouest,3,Balnéaire,1999,001,0,Standard,2,110.00,False,24,Lits jumeaux,2,True,True,2018,Bon état
+CH0642,H09,Forêt et Corail Tabarka,Tabarka,Jendouba,Nord-Ouest,3,Balnéaire,1999,002,0,Standard,2,110.00,False,20,Lit double,1,False,True,2022,Rénovée
+CH0643,H09,Forêt et Corail Tabarka,Tabarka,Jendouba,Nord-Ouest,3,Balnéaire,1999,003,0,Standard,2,110.00,False,20,Lit double,1,True,True,2013,À rénover
+CH0644,H09,Forêt et Corail Tabarka,Tabarka,Jendouba,Nord-Ouest,3,Balnéaire,1999,004,0,Standard,2,110.00,False,20,Lit double,1,True,False,2023,Rénovée
+CH0645,H09,Forêt et Corail Tabarka,Tabarka,Jendouba,Nord-Ouest,3,Balnéaire,1999,005,0,Standard,2,110.00,False,20,Lit double,1,False,True,2020,Bon état
+CH0646,H09,Forêt et Corail Tabarka,Tabarka,Jendouba,Nord-Ouest,3,Balnéaire,1999,006,0,Standard,2,110.00,False,23,Lit double,1,True,False,2024,Rénovée
+CH0647,H09,Forêt et Corail Tabarka,Tabarka,Jendouba,Nord-Ouest,3,Balnéaire,1999,007,0,Standard,2,110.00,False,25,Lit double,1,True,False,2016,Bon état
+CH0648,H09,Forêt et Corail Tabarka,Tabarka,Jendouba,Nord-Ouest,3,Balnéaire,1999,008,0,Standard,2,110.00,False,21,Lit double,1,True,False,2020,Bon état
+CH0649,H09,Forêt et Corail Tabarka,Tabarka,Jendouba,Nord-Ouest,3,Balnéaire,1999,009,0,Standard,2,110.00,False,20,Lits jumeaux,2,False,False,2022,Rénovée
+CH0650,H09,Forêt et Corail Tabarka,Tabarka,Jendouba,Nord-Ouest,3,Balnéaire,1999,010,0,Standard,2,110.00,False,21,Lits jumeaux,2,False,True,2016,Bon état
+CH0651,H09,Forêt et Corail Tabarka,Tabarka,Jendouba,Nord-Ouest,3,Balnéaire,1999,011,0,Standard,2,110.00,False,20,Lits jumeaux,2,False,False,2024,Rénovée
+CH0652,H09,Forêt et Corail Tabarka,Tabarka,Jendouba,Nord-Ouest,3,Balnéaire,1999,012,0,Standard,2,110.00,False,20,Lits jumeaux,2,True,False,2016,Bon état
+CH0653,H09,Forêt et Corail Tabarka,Tabarka,Jendouba,Nord-Ouest,3,Balnéaire,1999,013,0,Standard,2,110.00,False,23,Lit double,1,False,False,2022,Rénovée
+CH0654,H09,Forêt et Corail Tabarka,Tabarka,Jendouba,Nord-Ouest,3,Balnéaire,1999,014,0,Standard,2,110.00,False,20,Lits jumeaux,2,True,False,2023,Rénovée
+CH0655,H09,Forêt et Corail Tabarka,Tabarka,Jendouba,Nord-Ouest,3,Balnéaire,1999,015,0,Standard,2,110.00,False,24,Lit double,1,False,False,2013,À rénover
+CH0656,H09,Forêt et Corail Tabarka,Tabarka,Jendouba,Nord-Ouest,3,Balnéaire,1999,016,0,Standard,2,110.00,False,25,Lits jumeaux,2,True,False,2018,Bon état
+CH0657,H09,Forêt et Corail Tabarka,Tabarka,Jendouba,Nord-Ouest,3,Balnéaire,1999,017,0,Standard,2,110.00,False,26,Lit double,1,True,False,2016,Bon état
+CH0658,H09,Forêt et Corail Tabarka,Tabarka,Jendouba,Nord-Ouest,3,Balnéaire,1999,101,1,Standard,2,110.00,False,26,Lit double,1,True,False,2024,Rénovée
+CH0659,H09,Forêt et Corail Tabarka,Tabarka,Jendouba,Nord-Ouest,3,Balnéaire,1999,102,1,Standard,2,110.00,False,25,Lit double,1,True,False,2024,Rénovée
+CH0660,H09,Forêt et Corail Tabarka,Tabarka,Jendouba,Nord-Ouest,3,Balnéaire,1999,103,1,Standard,2,110.00,False,26,Lits jumeaux,2,True,False,2016,Bon état
+CH0661,H09,Forêt et Corail Tabarka,Tabarka,Jendouba,Nord-Ouest,3,Balnéaire,1999,104,1,Standard,2,110.00,False,20,Lit double,1,False,False,2016,Bon état
+CH0662,H09,Forêt et Corail Tabarka,Tabarka,Jendouba,Nord-Ouest,3,Balnéaire,1999,105,1,Standard,2,110.00,False,20,Lit double,1,False,False,2016,Bon état
+CH0663,H09,Forêt et Corail Tabarka,Tabarka,Jendouba,Nord-Ouest,3,Balnéaire,1999,106,1,Standard,2,110.00,False,23,Lit double,1,False,False,2018,Bon état
+CH0664,H09,Forêt et Corail Tabarka,Tabarka,Jendouba,Nord-Ouest,3,Balnéaire,1999,107,1,Standard,2,110.00,False,22,Lit double,1,False,False,2018,Bon état
+CH0665,H09,Forêt et Corail Tabarka,Tabarka,Jendouba,Nord-Ouest,3,Balnéaire,1999,108,1,Standard,2,110.00,False,22,Lit double,1,True,False,2016,Bon état
+CH0666,H09,Forêt et Corail Tabarka,Tabarka,Jendouba,Nord-Ouest,3,Balnéaire,1999,109,1,Supérieure,3,150.00,True,34,Lit king,1,True,False,2020,Bon état
+CH0667,H09,Forêt et Corail Tabarka,Tabarka,Jendouba,Nord-Ouest,3,Balnéaire,1999,110,1,Supérieure,3,150.00,True,30,Lit double,1,False,False,2024,Rénovée
+CH0668,H09,Forêt et Corail Tabarka,Tabarka,Jendouba,Nord-Ouest,3,Balnéaire,1999,111,1,Supérieure,3,150.00,True,29,Lit double,1,False,False,2018,Bon état
+CH0669,H09,Forêt et Corail Tabarka,Tabarka,Jendouba,Nord-Ouest,3,Balnéaire,1999,112,1,Supérieure,3,150.00,True,33,Lit double,1,True,False,2013,À rénover
+CH0670,H09,Forêt et Corail Tabarka,Tabarka,Jendouba,Nord-Ouest,3,Balnéaire,1999,113,1,Supérieure,3,150.00,True,31,Lit double,1,True,False,2024,Rénovée
+CH0671,H09,Forêt et Corail Tabarka,Tabarka,Jendouba,Nord-Ouest,3,Balnéaire,1999,114,1,Supérieure,3,150.00,True,30,Lit double,1,True,False,2013,À rénover
+CH0672,H09,Forêt et Corail Tabarka,Tabarka,Jendouba,Nord-Ouest,3,Balnéaire,1999,115,1,Supérieure,3,150.00,True,32,Lit double,1,False,False,2023,Rénovée
+CH0673,H09,Forêt et Corail Tabarka,Tabarka,Jendouba,Nord-Ouest,3,Balnéaire,1999,116,1,Supérieure,3,150.00,True,34,Lits jumeaux,2,True,False,2018,Bon état
+CH0674,H09,Forêt et Corail Tabarka,Tabarka,Jendouba,Nord-Ouest,3,Balnéaire,1999,117,1,Supérieure,3,150.00,True,31,Lit double,1,False,False,2013,À rénover
+CH0675,H09,Forêt et Corail Tabarka,Tabarka,Jendouba,Nord-Ouest,3,Balnéaire,1999,201,2,Supérieure,3,150.00,True,28,Lit double,1,True,False,2022,Rénovée
+CH0676,H09,Forêt et Corail Tabarka,Tabarka,Jendouba,Nord-Ouest,3,Balnéaire,1999,202,2,Supérieure,3,150.00,True,26,Lit king,1,False,False,2022,Rénovée
+CH0677,H09,Forêt et Corail Tabarka,Tabarka,Jendouba,Nord-Ouest,3,Balnéaire,1999,203,2,Supérieure,3,150.00,True,34,Lit double,1,True,False,2023,Rénovée
+CH0678,H09,Forêt et Corail Tabarka,Tabarka,Jendouba,Nord-Ouest,3,Balnéaire,1999,204,2,Familiale,5,190.00,False,37,Lit double + 2 lits simples,3,False,False,2022,Rénovée
+CH0679,H09,Forêt et Corail Tabarka,Tabarka,Jendouba,Nord-Ouest,3,Balnéaire,1999,205,2,Familiale,5,190.00,False,48,Lit double + 2 lits simples,3,False,False,2024,Rénovée
+CH0680,H09,Forêt et Corail Tabarka,Tabarka,Jendouba,Nord-Ouest,3,Balnéaire,1999,206,2,Familiale,5,190.00,False,43,Lit double + 2 lits simples,3,False,False,2024,Rénovée
+CH0681,H09,Forêt et Corail Tabarka,Tabarka,Jendouba,Nord-Ouest,3,Balnéaire,1999,207,2,Familiale,5,190.00,False,48,Lit double + 2 lits simples,3,True,False,2020,Bon état
+CH0682,H09,Forêt et Corail Tabarka,Tabarka,Jendouba,Nord-Ouest,3,Balnéaire,1999,208,2,Familiale,5,190.00,False,43,Lit double + 2 lits simples,3,True,False,2020,Bon état
+CH0683,H09,Forêt et Corail Tabarka,Tabarka,Jendouba,Nord-Ouest,3,Balnéaire,1999,209,2,Familiale,5,190.00,False,42,Lit double + 2 lits simples,3,True,False,2010,À rénover
+CH0684,H09,Forêt et Corail Tabarka,Tabarka,Jendouba,Nord-Ouest,3,Balnéaire,1999,210,2,Familiale,5,190.00,False,46,Lit double + canapé-lit,2,False,False,2010,À rénover
+CH0685,H09,Forêt et Corail Tabarka,Tabarka,Jendouba,Nord-Ouest,3,Balnéaire,1999,211,2,Familiale,5,190.00,False,47,Lit double + 2 lits simples,3,True,False,2018,Bon état
+CH0686,H09,Forêt et Corail Tabarka,Tabarka,Jendouba,Nord-Ouest,3,Balnéaire,1999,212,2,Suite,4,300.00,True,65,Lit king,1,True,False,2024,Rénovée
+CH0687,H09,Forêt et Corail Tabarka,Tabarka,Jendouba,Nord-Ouest,3,Balnéaire,1999,213,2,Suite,4,300.00,True,61,Lit king,1,True,False,2023,Rénovée
+CH0688,H09,Forêt et Corail Tabarka,Tabarka,Jendouba,Nord-Ouest,3,Balnéaire,1999,214,2,Suite,4,300.00,True,76,Lit king,1,True,False,2023,Rénovée
+CH0689,H09,Forêt et Corail Tabarka,Tabarka,Jendouba,Nord-Ouest,3,Balnéaire,1999,215,2,Suite,4,300.00,True,62,Lit king,1,True,False,2023,Rénovée
+CH0690,H09,Forêt et Corail Tabarka,Tabarka,Jendouba,Nord-Ouest,3,Balnéaire,1999,216,2,Suite,4,300.00,True,56,Lit king,1,True,False,2022,Rénovée
+CH0691,H10,Vieux Port Bizerte,Bizerte,Bizerte,Nord,3,Urbain,2006,001,0,Standard,2,110.00,False,26,Lit double,1,False,False,2023,Rénovée
+CH0692,H10,Vieux Port Bizerte,Bizerte,Bizerte,Nord,3,Urbain,2006,002,0,Standard,2,110.00,False,26,Lit double,1,False,False,2018,Bon état
+CH0693,H10,Vieux Port Bizerte,Bizerte,Bizerte,Nord,3,Urbain,2006,003,0,Standard,2,110.00,False,26,Lits jumeaux,2,False,False,2010,À rénover
+CH0694,H10,Vieux Port Bizerte,Bizerte,Bizerte,Nord,3,Urbain,2006,004,0,Standard,2,110.00,False,24,Lits jumeaux,2,True,False,2020,Bon état
+CH0695,H10,Vieux Port Bizerte,Bizerte,Bizerte,Nord,3,Urbain,2006,005,0,Standard,2,110.00,False,20,Lits jumeaux,2,True,False,2023,Rénovée
+CH0696,H10,Vieux Port Bizerte,Bizerte,Bizerte,Nord,3,Urbain,2006,006,0,Standard,2,110.00,False,23,Lits jumeaux,2,True,False,2022,Rénovée
+CH0697,H10,Vieux Port Bizerte,Bizerte,Bizerte,Nord,3,Urbain,2006,007,0,Standard,2,110.00,False,25,Lit double,1,True,False,2018,Bon état
+CH0698,H10,Vieux Port Bizerte,Bizerte,Bizerte,Nord,3,Urbain,2006,008,0,Standard,2,110.00,False,26,Lits jumeaux,2,True,True,2022,Rénovée
+CH0699,H10,Vieux Port Bizerte,Bizerte,Bizerte,Nord,3,Urbain,2006,009,0,Standard,2,110.00,False,20,Lit double,1,True,False,2016,Bon état
+CH0700,H10,Vieux Port Bizerte,Bizerte,Bizerte,Nord,3,Urbain,2006,010,0,Standard,2,110.00,False,25,Lits jumeaux,2,True,False,2024,Rénovée
+CH0701,H10,Vieux Port Bizerte,Bizerte,Bizerte,Nord,3,Urbain,2006,011,0,Standard,2,110.00,False,24,Lit double,1,False,False,2024,Rénovée
+CH0702,H10,Vieux Port Bizerte,Bizerte,Bizerte,Nord,3,Urbain,2006,012,0,Standard,2,110.00,False,23,Lit double,1,False,False,2018,Bon état
+CH0703,H10,Vieux Port Bizerte,Bizerte,Bizerte,Nord,3,Urbain,2006,101,1,Standard,2,110.00,False,22,Lits jumeaux,2,False,False,2010,À rénover
+CH0704,H10,Vieux Port Bizerte,Bizerte,Bizerte,Nord,3,Urbain,2006,102,1,Standard,2,110.00,False,20,Lits jumeaux,2,True,False,2023,Rénovée
+CH0705,H10,Vieux Port Bizerte,Bizerte,Bizerte,Nord,3,Urbain,2006,103,1,Standard,2,110.00,False,21,Lit double,1,True,False,2022,Rénovée
+CH0706,H10,Vieux Port Bizerte,Bizerte,Bizerte,Nord,3,Urbain,2006,104,1,Standard,2,110.00,False,21,Lit double,1,False,False,2016,Bon état
+CH0707,H10,Vieux Port Bizerte,Bizerte,Bizerte,Nord,3,Urbain,2006,105,1,Standard,2,110.00,False,25,Lit double,1,False,False,2023,Rénovée
+CH0708,H10,Vieux Port Bizerte,Bizerte,Bizerte,Nord,3,Urbain,2006,106,1,Standard,2,110.00,False,22,Lits jumeaux,2,False,False,2020,Bon état
+CH0709,H10,Vieux Port Bizerte,Bizerte,Bizerte,Nord,3,Urbain,2006,107,1,Standard,2,110.00,False,25,Lit double,1,True,False,2020,Bon état
+CH0710,H10,Vieux Port Bizerte,Bizerte,Bizerte,Nord,3,Urbain,2006,108,1,Standard,2,110.00,False,24,Lit double,1,True,False,2024,Rénovée
+CH0711,H10,Vieux Port Bizerte,Bizerte,Bizerte,Nord,3,Urbain,2006,109,1,Standard,2,110.00,False,25,Lit double,1,True,False,2023,Rénovée
+CH0712,H10,Vieux Port Bizerte,Bizerte,Bizerte,Nord,3,Urbain,2006,110,1,Standard,2,110.00,False,24,Lit double,1,True,False,2013,À rénover
+CH0713,H10,Vieux Port Bizerte,Bizerte,Bizerte,Nord,3,Urbain,2006,111,1,Standard,2,110.00,False,20,Lit double,1,True,False,2022,Rénovée
+CH0714,H10,Vieux Port Bizerte,Bizerte,Bizerte,Nord,3,Urbain,2006,112,1,Supérieure,3,150.00,True,30,Lits jumeaux,2,False,False,2013,À rénover
+CH0715,H10,Vieux Port Bizerte,Bizerte,Bizerte,Nord,3,Urbain,2006,201,2,Supérieure,3,150.00,True,29,Lits jumeaux,2,False,False,2010,À rénover
+CH0716,H10,Vieux Port Bizerte,Bizerte,Bizerte,Nord,3,Urbain,2006,202,2,Supérieure,3,150.00,True,28,Lit double,1,False,False,2020,Bon état
+CH0717,H10,Vieux Port Bizerte,Bizerte,Bizerte,Nord,3,Urbain,2006,203,2,Supérieure,3,150.00,True,32,Lit king,1,True,False,2022,Rénovée
+CH0718,H10,Vieux Port Bizerte,Bizerte,Bizerte,Nord,3,Urbain,2006,204,2,Supérieure,3,150.00,True,28,Lit double,1,False,False,2013,À rénover
+CH0719,H10,Vieux Port Bizerte,Bizerte,Bizerte,Nord,3,Urbain,2006,205,2,Supérieure,3,150.00,True,28,Lit double,1,True,False,2020,Bon état
+CH0720,H10,Vieux Port Bizerte,Bizerte,Bizerte,Nord,3,Urbain,2006,206,2,Supérieure,3,150.00,True,30,Lits jumeaux,2,False,False,2023,Rénovée
+CH0721,H10,Vieux Port Bizerte,Bizerte,Bizerte,Nord,3,Urbain,2006,207,2,Supérieure,3,150.00,True,28,Lits jumeaux,2,True,False,2018,Bon état
+CH0722,H10,Vieux Port Bizerte,Bizerte,Bizerte,Nord,3,Urbain,2006,208,2,Supérieure,3,150.00,True,33,Lits jumeaux,2,False,False,2016,Bon état
+CH0723,H10,Vieux Port Bizerte,Bizerte,Bizerte,Nord,3,Urbain,2006,209,2,Supérieure,3,150.00,True,26,Lit double,1,True,False,2013,À rénover
+CH0724,H10,Vieux Port Bizerte,Bizerte,Bizerte,Nord,3,Urbain,2006,210,2,Supérieure,3,150.00,True,34,Lits jumeaux,2,True,False,2016,Bon état
+CH0725,H10,Vieux Port Bizerte,Bizerte,Bizerte,Nord,3,Urbain,2006,211,2,Familiale,5,190.00,False,41,Lit double + 2 lits simples,3,True,False,2022,Rénovée
+CH0726,H10,Vieux Port Bizerte,Bizerte,Bizerte,Nord,3,Urbain,2006,212,2,Familiale,5,190.00,False,43,Lit double + canapé-lit,2,True,False,2013,À rénover
+CH0727,H10,Vieux Port Bizerte,Bizerte,Bizerte,Nord,3,Urbain,2006,301,3,Familiale,5,190.00,False,38,Lit double + 2 lits simples,3,False,False,2023,Rénovée
+CH0728,H10,Vieux Port Bizerte,Bizerte,Bizerte,Nord,3,Urbain,2006,302,3,Familiale,5,190.00,False,42,Lit double + 2 lits simples,3,False,False,2024,Rénovée
+CH0729,H10,Vieux Port Bizerte,Bizerte,Bizerte,Nord,3,Urbain,2006,303,3,Familiale,5,190.00,False,43,Lit double + 2 lits simples,3,True,False,2018,Bon état
+CH0730,H10,Vieux Port Bizerte,Bizerte,Bizerte,Nord,3,Urbain,2006,304,3,Familiale,5,190.00,False,41,Lit double + 2 lits simples,3,True,False,2018,Bon état
+CH0731,H10,Vieux Port Bizerte,Bizerte,Bizerte,Nord,3,Urbain,2006,305,3,Familiale,5,190.00,False,45,Lit double + 2 lits simples,3,True,False,2013,À rénover
+CH0732,H10,Vieux Port Bizerte,Bizerte,Bizerte,Nord,3,Urbain,2006,306,3,Suite,4,300.00,True,73,Lit king,1,False,False,2013,À rénover
+CH0733,H10,Vieux Port Bizerte,Bizerte,Bizerte,Nord,3,Urbain,2006,307,3,Suite,4,300.00,True,54,Lit king,1,True,False,2023,Rénovée
+CH0734,H10,Vieux Port Bizerte,Bizerte,Bizerte,Nord,3,Urbain,2006,308,3,Suite,4,300.00,True,68,Lit king,1,True,False,2016,Bon état
+CH0735,H10,Vieux Port Bizerte,Bizerte,Bizerte,Nord,3,Urbain,2006,309,3,Suite,4,300.00,True,56,Lit king,1,True,False,2016,Bon état
+CH0736,H11,Sahara Douz Lodge,Douz,Kébili,Sud-Ouest,3,Désert,2009,001,0,Standard,2,110.00,False,21,Lit double,1,False,False,2022,Rénovée
+CH0737,H11,Sahara Douz Lodge,Douz,Kébili,Sud-Ouest,3,Désert,2009,002,0,Standard,2,110.00,False,25,Lit double,1,True,False,2023,Rénovée
+CH0738,H11,Sahara Douz Lodge,Douz,Kébili,Sud-Ouest,3,Désert,2009,003,0,Standard,2,110.00,False,25,Lit double,1,True,False,2016,Bon état
+CH0739,H11,Sahara Douz Lodge,Douz,Kébili,Sud-Ouest,3,Désert,2009,004,0,Standard,2,110.00,False,20,Lit double,1,False,True,2016,Bon état
+CH0740,H11,Sahara Douz Lodge,Douz,Kébili,Sud-Ouest,3,Désert,2009,005,0,Standard,2,110.00,False,23,Lits jumeaux,2,False,True,2018,Bon état
+CH0741,H11,Sahara Douz Lodge,Douz,Kébili,Sud-Ouest,3,Désert,2009,006,0,Standard,2,110.00,False,20,Lits jumeaux,2,True,False,2023,Rénovée
+CH0742,H11,Sahara Douz Lodge,Douz,Kébili,Sud-Ouest,3,Désert,2009,007,0,Standard,2,110.00,False,26,Lit double,1,False,False,2024,Rénovée
+CH0743,H11,Sahara Douz Lodge,Douz,Kébili,Sud-Ouest,3,Désert,2009,008,0,Standard,2,110.00,False,24,Lit double,1,True,False,2022,Rénovée
+CH0744,H11,Sahara Douz Lodge,Douz,Kébili,Sud-Ouest,3,Désert,2009,009,0,Standard,2,110.00,False,22,Lit double,1,True,False,2023,Rénovée
+CH0745,H11,Sahara Douz Lodge,Douz,Kébili,Sud-Ouest,3,Désert,2009,010,0,Standard,2,110.00,False,21,Lits jumeaux,2,True,False,2022,Rénovée
+CH0746,H11,Sahara Douz Lodge,Douz,Kébili,Sud-Ouest,3,Désert,2009,011,0,Standard,2,110.00,False,23,Lit double,1,True,False,2023,Rénovée
+CH0747,H11,Sahara Douz Lodge,Douz,Kébili,Sud-Ouest,3,Désert,2009,012,0,Standard,2,110.00,False,22,Lit double,1,True,False,2024,Rénovée
+CH0748,H11,Sahara Douz Lodge,Douz,Kébili,Sud-Ouest,3,Désert,2009,013,0,Standard,2,110.00,False,25,Lits jumeaux,2,True,True,2016,Bon état
+CH0749,H11,Sahara Douz Lodge,Douz,Kébili,Sud-Ouest,3,Désert,2009,014,0,Standard,2,110.00,False,26,Lit double,1,False,False,2024,Rénovée
+CH0750,H11,Sahara Douz Lodge,Douz,Kébili,Sud-Ouest,3,Désert,2009,015,0,Standard,2,110.00,False,21,Lits jumeaux,2,False,False,2013,À rénover
+CH0751,H11,Sahara Douz Lodge,Douz,Kébili,Sud-Ouest,3,Désert,2009,016,0,Standard,2,110.00,False,23,Lit double,1,False,False,2016,Bon état
+CH0752,H11,Sahara Douz Lodge,Douz,Kébili,Sud-Ouest,3,Désert,2009,017,0,Standard,2,110.00,False,23,Lits jumeaux,2,True,False,2022,Rénovée
+CH0753,H11,Sahara Douz Lodge,Douz,Kébili,Sud-Ouest,3,Désert,2009,018,0,Standard,2,110.00,False,20,Lit double,1,False,True,2016,Bon état
+CH0754,H11,Sahara Douz Lodge,Douz,Kébili,Sud-Ouest,3,Désert,2009,019,0,Standard,2,110.00,False,25,Lit double,1,True,False,2013,À rénover
+CH0755,H11,Sahara Douz Lodge,Douz,Kébili,Sud-Ouest,3,Désert,2009,020,0,Standard,2,110.00,False,23,Lits jumeaux,2,True,True,2018,Bon état
+CH0756,H11,Sahara Douz Lodge,Douz,Kébili,Sud-Ouest,3,Désert,2009,021,0,Standard,2,110.00,False,23,Lits jumeaux,2,False,False,2024,Rénovée
+CH0757,H11,Sahara Douz Lodge,Douz,Kébili,Sud-Ouest,3,Désert,2009,022,0,Standard,2,110.00,False,21,Lits jumeaux,2,True,False,2016,Bon état
+CH0758,H11,Sahara Douz Lodge,Douz,Kébili,Sud-Ouest,3,Désert,2009,023,0,Standard,2,110.00,False,24,Lits jumeaux,2,True,False,2013,À rénover
+CH0759,H11,Sahara Douz Lodge,Douz,Kébili,Sud-Ouest,3,Désert,2009,101,1,Supérieure,3,150.00,True,26,Lits jumeaux,2,False,False,2013,À rénover
+CH0760,H11,Sahara Douz Lodge,Douz,Kébili,Sud-Ouest,3,Désert,2009,102,1,Supérieure,3,150.00,True,31,Lit king,1,False,False,2016,Bon état
+CH0761,H11,Sahara Douz Lodge,Douz,Kébili,Sud-Ouest,3,Désert,2009,103,1,Supérieure,3,150.00,True,31,Lits jumeaux,2,False,False,2020,Bon état
+CH0762,H11,Sahara Douz Lodge,Douz,Kébili,Sud-Ouest,3,Désert,2009,104,1,Supérieure,3,150.00,True,26,Lit king,1,True,False,2023,Rénovée
+CH0763,H11,Sahara Douz Lodge,Douz,Kébili,Sud-Ouest,3,Désert,2009,105,1,Supérieure,3,150.00,True,34,Lit double,1,True,False,2023,Rénovée
+CH0764,H11,Sahara Douz Lodge,Douz,Kébili,Sud-Ouest,3,Désert,2009,106,1,Supérieure,3,150.00,True,27,Lits jumeaux,2,True,False,2016,Bon état
+CH0765,H11,Sahara Douz Lodge,Douz,Kébili,Sud-Ouest,3,Désert,2009,107,1,Supérieure,3,150.00,True,30,Lit king,1,False,False,2018,Bon état
+CH0766,H11,Sahara Douz Lodge,Douz,Kébili,Sud-Ouest,3,Désert,2009,108,1,Supérieure,3,150.00,True,28,Lit double,1,True,False,2010,À rénover
+CH0767,H11,Sahara Douz Lodge,Douz,Kébili,Sud-Ouest,3,Désert,2009,109,1,Supérieure,3,150.00,True,33,Lit double,1,False,False,2024,Rénovée
+CH0768,H11,Sahara Douz Lodge,Douz,Kébili,Sud-Ouest,3,Désert,2009,110,1,Supérieure,3,150.00,True,34,Lit double,1,True,False,2020,Bon état
+CH0769,H11,Sahara Douz Lodge,Douz,Kébili,Sud-Ouest,3,Désert,2009,111,1,Supérieure,3,150.00,True,27,Lits jumeaux,2,True,False,2016,Bon état
+CH0770,H11,Sahara Douz Lodge,Douz,Kébili,Sud-Ouest,3,Désert,2009,112,1,Familiale,5,190.00,False,38,Lit double + 2 lits simples,3,False,False,2013,À rénover
+CH0771,H11,Sahara Douz Lodge,Douz,Kébili,Sud-Ouest,3,Désert,2009,113,1,Familiale,5,190.00,False,42,Lit double + 2 lits simples,3,True,False,2018,Bon état
+CH0772,H11,Sahara Douz Lodge,Douz,Kébili,Sud-Ouest,3,Désert,2009,114,1,Familiale,5,190.00,False,39,Lit double + canapé-lit,2,True,False,2016,Bon état
+CH0773,H11,Sahara Douz Lodge,Douz,Kébili,Sud-Ouest,3,Désert,2009,115,1,Familiale,5,190.00,False,45,Lit double + 2 lits simples,3,False,False,2023,Rénovée
+CH0774,H11,Sahara Douz Lodge,Douz,Kébili,Sud-Ouest,3,Désert,2009,116,1,Familiale,5,190.00,False,38,Lit double + canapé-lit,2,False,False,2024,Rénovée
+CH0775,H11,Sahara Douz Lodge,Douz,Kébili,Sud-Ouest,3,Désert,2009,117,1,Familiale,5,190.00,False,39,Lit double + 2 lits simples,3,False,False,2022,Rénovée
+CH0776,H11,Sahara Douz Lodge,Douz,Kébili,Sud-Ouest,3,Désert,2009,118,1,Familiale,5,190.00,False,41,Lit double + 2 lits simples,3,False,False,2016,Bon état
+CH0777,H11,Sahara Douz Lodge,Douz,Kébili,Sud-Ouest,3,Désert,2009,119,1,Suite,4,300.00,True,79,Lit king,1,True,False,2018,Bon état
+CH0778,H11,Sahara Douz Lodge,Douz,Kébili,Sud-Ouest,3,Désert,2009,120,1,Suite,4,300.00,True,64,Lit king,1,True,False,2020,Bon état
+CH0779,H11,Sahara Douz Lodge,Douz,Kébili,Sud-Ouest,3,Désert,2009,121,1,Suite,4,300.00,True,58,Lit king,1,True,False,2020,Bon état
+CH0780,H11,Sahara Douz Lodge,Douz,Kébili,Sud-Ouest,3,Désert,2009,122,1,Suite,4,300.00,True,61,Lit king,1,True,False,2020,Bon état
+CH0781,H12,Médina Kairouan,Kairouan,Kairouan,Centre,3,Culturel,2004,001,0,Standard,2,110.00,False,22,Lit double,1,True,False,2018,Bon état
+CH0782,H12,Médina Kairouan,Kairouan,Kairouan,Centre,3,Culturel,2004,002,0,Standard,2,110.00,False,26,Lit double,1,True,True,2024,Rénovée
+CH0783,H12,Médina Kairouan,Kairouan,Kairouan,Centre,3,Culturel,2004,003,0,Standard,2,110.00,False,21,Lits jumeaux,2,True,True,2022,Rénovée
+CH0784,H12,Médina Kairouan,Kairouan,Kairouan,Centre,3,Culturel,2004,004,0,Standard,2,110.00,False,22,Lits jumeaux,2,True,False,2024,Rénovée
+CH0785,H12,Médina Kairouan,Kairouan,Kairouan,Centre,3,Culturel,2004,005,0,Standard,2,110.00,False,22,Lit double,1,False,True,2023,Rénovée
+CH0786,H12,Médina Kairouan,Kairouan,Kairouan,Centre,3,Culturel,2004,006,0,Standard,2,110.00,False,20,Lits jumeaux,2,False,False,2023,Rénovée
+CH0787,H12,Médina Kairouan,Kairouan,Kairouan,Centre,3,Culturel,2004,007,0,Standard,2,110.00,False,25,Lit double,1,False,True,2010,À rénover
+CH0788,H12,Médina Kairouan,Kairouan,Kairouan,Centre,3,Culturel,2004,008,0,Standard,2,110.00,False,20,Lit double,1,True,False,2020,Bon état
+CH0789,H12,Médina Kairouan,Kairouan,Kairouan,Centre,3,Culturel,2004,009,0,Standard,2,110.00,False,23,Lits jumeaux,2,False,False,2010,À rénover
+CH0790,H12,Médina Kairouan,Kairouan,Kairouan,Centre,3,Culturel,2004,010,0,Standard,2,110.00,False,22,Lits jumeaux,2,False,False,2010,À rénover
+CH0791,H12,Médina Kairouan,Kairouan,Kairouan,Centre,3,Culturel,2004,011,0,Standard,2,110.00,False,21,Lits jumeaux,2,True,True,2020,Bon état
+CH0792,H12,Médina Kairouan,Kairouan,Kairouan,Centre,3,Culturel,2004,012,0,Standard,2,110.00,False,24,Lits jumeaux,2,True,False,2013,À rénover
+CH0793,H12,Médina Kairouan,Kairouan,Kairouan,Centre,3,Culturel,2004,013,0,Standard,2,110.00,False,26,Lit double,1,False,True,2024,Rénovée
+CH0794,H12,Médina Kairouan,Kairouan,Kairouan,Centre,3,Culturel,2004,014,0,Standard,2,110.00,False,21,Lit double,1,False,False,2016,Bon état
+CH0795,H12,Médina Kairouan,Kairouan,Kairouan,Centre,3,Culturel,2004,101,1,Standard,2,110.00,False,24,Lit double,1,False,False,2018,Bon état
+CH0796,H12,Médina Kairouan,Kairouan,Kairouan,Centre,3,Culturel,2004,102,1,Standard,2,110.00,False,21,Lit double,1,True,False,2018,Bon état
+CH0797,H12,Médina Kairouan,Kairouan,Kairouan,Centre,3,Culturel,2004,103,1,Standard,2,110.00,False,26,Lits jumeaux,2,True,False,2024,Rénovée
+CH0798,H12,Médina Kairouan,Kairouan,Kairouan,Centre,3,Culturel,2004,104,1,Standard,2,110.00,False,21,Lit double,1,False,False,2023,Rénovée
+CH0799,H12,Médina Kairouan,Kairouan,Kairouan,Centre,3,Culturel,2004,105,1,Standard,2,110.00,False,25,Lits jumeaux,2,True,False,2022,Rénovée
+CH0800,H12,Médina Kairouan,Kairouan,Kairouan,Centre,3,Culturel,2004,106,1,Standard,2,110.00,False,22,Lit double,1,False,False,2010,À rénover
+CH0801,H12,Médina Kairouan,Kairouan,Kairouan,Centre,3,Culturel,2004,107,1,Supérieure,3,150.00,True,27,Lit king,1,False,False,2016,Bon état
+CH0802,H12,Médina Kairouan,Kairouan,Kairouan,Centre,3,Culturel,2004,108,1,Supérieure,3,150.00,True,27,Lit double,1,True,False,2022,Rénovée
+CH0803,H12,Médina Kairouan,Kairouan,Kairouan,Centre,3,Culturel,2004,109,1,Supérieure,3,150.00,True,32,Lit king,1,False,False,2023,Rénovée
+CH0804,H12,Médina Kairouan,Kairouan,Kairouan,Centre,3,Culturel,2004,110,1,Supérieure,3,150.00,True,34,Lits jumeaux,2,False,False,2024,Rénovée
+CH0805,H12,Médina Kairouan,Kairouan,Kairouan,Centre,3,Culturel,2004,111,1,Supérieure,3,150.00,True,29,Lit king,1,True,False,2020,Bon état
+CH0806,H12,Médina Kairouan,Kairouan,Kairouan,Centre,3,Culturel,2004,112,1,Supérieure,3,150.00,True,28,Lit double,1,True,False,2023,Rénovée
+CH0807,H12,Médina Kairouan,Kairouan,Kairouan,Centre,3,Culturel,2004,113,1,Supérieure,3,150.00,True,28,Lit double,1,True,False,2023,Rénovée
+CH0808,H12,Médina Kairouan,Kairouan,Kairouan,Centre,3,Culturel,2004,114,1,Supérieure,3,150.00,True,34,Lits jumeaux,2,False,False,2018,Bon état
+CH0809,H12,Médina Kairouan,Kairouan,Kairouan,Centre,3,Culturel,2004,201,2,Supérieure,3,150.00,True,27,Lit double,1,True,False,2013,À rénover
+CH0810,H12,Médina Kairouan,Kairouan,Kairouan,Centre,3,Culturel,2004,202,2,Supérieure,3,150.00,True,31,Lit king,1,True,False,2018,Bon état
+CH0811,H12,Médina Kairouan,Kairouan,Kairouan,Centre,3,Culturel,2004,203,2,Familiale,5,190.00,False,48,Lit double + canapé-lit,2,True,False,2024,Rénovée
+CH0812,H12,Médina Kairouan,Kairouan,Kairouan,Centre,3,Culturel,2004,204,2,Familiale,5,190.00,False,43,Lit double + 2 lits simples,3,False,False,2013,À rénover
+CH0813,H12,Médina Kairouan,Kairouan,Kairouan,Centre,3,Culturel,2004,205,2,Familiale,5,190.00,False,47,Lit double + 2 lits simples,3,True,False,2020,Bon état
+CH0814,H12,Médina Kairouan,Kairouan,Kairouan,Centre,3,Culturel,2004,206,2,Familiale,5,190.00,False,43,Lit double + 2 lits simples,3,False,False,2023,Rénovée
+CH0815,H12,Médina Kairouan,Kairouan,Kairouan,Centre,3,Culturel,2004,207,2,Familiale,5,190.00,False,44,Lit double + canapé-lit,2,True,False,2013,À rénover
+CH0816,H12,Médina Kairouan,Kairouan,Kairouan,Centre,3,Culturel,2004,208,2,Familiale,5,190.00,False,43,Lit double + 2 lits simples,3,False,False,2024,Rénovée
+CH0817,H12,Médina Kairouan,Kairouan,Kairouan,Centre,3,Culturel,2004,209,2,Suite,4,300.00,True,67,Lit king,1,True,False,2018,Bon état
+CH0818,H12,Médina Kairouan,Kairouan,Kairouan,Centre,3,Culturel,2004,210,2,Suite,4,300.00,True,55,Lit king,1,True,False,2016,Bon état
+CH0819,H12,Médina Kairouan,Kairouan,Kairouan,Centre,3,Culturel,2004,211,2,Suite,4,300.00,True,66,Lit king,1,True,False,2013,À rénover
+CH0820,H12,Médina Kairouan,Kairouan,Kairouan,Centre,3,Culturel,2004,212,2,Suite,4,300.00,True,74,Lit king,1,True,False,2022,Rénovée
+CH0821,H13,Sfax Business Center,Sfax,Sfax,Centre-Est,4,Urbain,2015,001,0,Standard,2,110.00,False,24,Lit double,1,True,False,2024,Rénovée
+CH0822,H13,Sfax Business Center,Sfax,Sfax,Centre-Est,4,Urbain,2015,002,0,Standard,2,110.00,False,22,Lit double,1,False,False,2020,Bon état
+CH0823,H13,Sfax Business Center,Sfax,Sfax,Centre-Est,4,Urbain,2015,003,0,Standard,2,110.00,False,25,Lits jumeaux,2,False,False,2022,Rénovée
+CH0824,H13,Sfax Business Center,Sfax,Sfax,Centre-Est,4,Urbain,2015,004,0,Standard,2,110.00,False,26,Lit double,1,True,True,2024,Rénovée
+CH0825,H13,Sfax Business Center,Sfax,Sfax,Centre-Est,4,Urbain,2015,005,0,Standard,2,110.00,False,25,Lit double,1,True,True,2016,Bon état
+CH0826,H13,Sfax Business Center,Sfax,Sfax,Centre-Est,4,Urbain,2015,006,0,Standard,2,110.00,False,24,Lit double,1,False,False,2022,Rénovée
+CH0827,H13,Sfax Business Center,Sfax,Sfax,Centre-Est,4,Urbain,2015,007,0,Standard,2,110.00,False,21,Lit double,1,True,False,2016,Bon état
+CH0828,H13,Sfax Business Center,Sfax,Sfax,Centre-Est,4,Urbain,2015,008,0,Standard,2,110.00,False,26,Lit double,1,False,True,2023,Rénovée
+CH0829,H13,Sfax Business Center,Sfax,Sfax,Centre-Est,4,Urbain,2015,009,0,Standard,2,110.00,False,24,Lit double,1,True,False,2016,Bon état
+CH0830,H13,Sfax Business Center,Sfax,Sfax,Centre-Est,4,Urbain,2015,010,0,Standard,2,110.00,False,24,Lits jumeaux,2,True,False,2023,Rénovée
+CH0831,H13,Sfax Business Center,Sfax,Sfax,Centre-Est,4,Urbain,2015,011,0,Standard,2,110.00,False,21,Lit double,1,True,False,2023,Rénovée
+CH0832,H13,Sfax Business Center,Sfax,Sfax,Centre-Est,4,Urbain,2015,012,0,Standard,2,110.00,False,26,Lit double,1,False,False,2023,Rénovée
+CH0833,H13,Sfax Business Center,Sfax,Sfax,Centre-Est,4,Urbain,2015,101,1,Standard,2,110.00,False,20,Lits jumeaux,2,False,False,2015,Bon état
+CH0834,H13,Sfax Business Center,Sfax,Sfax,Centre-Est,4,Urbain,2015,102,1,Standard,2,110.00,False,25,Lit double,1,True,False,2015,Bon état
+CH0835,H13,Sfax Business Center,Sfax,Sfax,Centre-Est,4,Urbain,2015,103,1,Standard,2,110.00,False,25,Lit double,1,True,False,2018,Bon état
+CH0836,H13,Sfax Business Center,Sfax,Sfax,Centre-Est,4,Urbain,2015,104,1,Standard,2,110.00,False,21,Lits jumeaux,2,False,False,2018,Bon état
+CH0837,H13,Sfax Business Center,Sfax,Sfax,Centre-Est,4,Urbain,2015,105,1,Standard,2,110.00,False,26,Lit double,1,True,False,2022,Rénovée
+CH0838,H13,Sfax Business Center,Sfax,Sfax,Centre-Est,4,Urbain,2015,106,1,Standard,2,110.00,False,21,Lit double,1,False,False,2015,Bon état
+CH0839,H13,Sfax Business Center,Sfax,Sfax,Centre-Est,4,Urbain,2015,107,1,Standard,2,110.00,False,22,Lit double,1,True,False,2015,Bon état
+CH0840,H13,Sfax Business Center,Sfax,Sfax,Centre-Est,4,Urbain,2015,108,1,Standard,2,110.00,False,26,Lits jumeaux,2,True,False,2024,Rénovée
+CH0841,H13,Sfax Business Center,Sfax,Sfax,Centre-Est,4,Urbain,2015,109,1,Standard,2,110.00,False,26,Lits jumeaux,2,True,False,2023,Rénovée
+CH0842,H13,Sfax Business Center,Sfax,Sfax,Centre-Est,4,Urbain,2015,110,1,Standard,2,110.00,False,26,Lit double,1,False,False,2016,Bon état
+CH0843,H13,Sfax Business Center,Sfax,Sfax,Centre-Est,4,Urbain,2015,111,1,Standard,2,110.00,False,24,Lit double,1,True,False,2022,Rénovée
+CH0844,H13,Sfax Business Center,Sfax,Sfax,Centre-Est,4,Urbain,2015,112,1,Standard,2,110.00,False,24,Lit double,1,True,False,2022,Rénovée
+CH0845,H13,Sfax Business Center,Sfax,Sfax,Centre-Est,4,Urbain,2015,201,2,Standard,2,110.00,False,20,Lit double,1,False,False,2018,Bon état
+CH0846,H13,Sfax Business Center,Sfax,Sfax,Centre-Est,4,Urbain,2015,202,2,Standard,2,110.00,False,23,Lits jumeaux,2,True,False,2016,Bon état
+CH0847,H13,Sfax Business Center,Sfax,Sfax,Centre-Est,4,Urbain,2015,203,2,Standard,2,110.00,False,26,Lits jumeaux,2,True,False,2023,Rénovée
+CH0848,H13,Sfax Business Center,Sfax,Sfax,Centre-Est,4,Urbain,2015,204,2,Standard,2,110.00,False,22,Lit double,1,True,False,2023,Rénovée
+CH0849,H13,Sfax Business Center,Sfax,Sfax,Centre-Est,4,Urbain,2015,205,2,Standard,2,110.00,False,24,Lit double,1,False,False,2023,Rénovée
+CH0850,H13,Sfax Business Center,Sfax,Sfax,Centre-Est,4,Urbain,2015,206,2,Standard,2,110.00,False,24,Lit double,1,True,False,2015,Bon état
+CH0851,H13,Sfax Business Center,Sfax,Sfax,Centre-Est,4,Urbain,2015,207,2,Standard,2,110.00,False,23,Lits jumeaux,2,False,False,2016,Bon état
+CH0852,H13,Sfax Business Center,Sfax,Sfax,Centre-Est,4,Urbain,2015,208,2,Standard,2,110.00,False,25,Lits jumeaux,2,True,False,2016,Bon état
+CH0853,H13,Sfax Business Center,Sfax,Sfax,Centre-Est,4,Urbain,2015,209,2,Standard,2,110.00,False,23,Lits jumeaux,2,True,False,2023,Rénovée
+CH0854,H13,Sfax Business Center,Sfax,Sfax,Centre-Est,4,Urbain,2015,210,2,Standard,2,110.00,False,26,Lit double,1,False,False,2018,Bon état
+CH0855,H13,Sfax Business Center,Sfax,Sfax,Centre-Est,4,Urbain,2015,211,2,Standard,2,110.00,False,22,Lit double,1,True,False,2015,Bon état
+CH0856,H13,Sfax Business Center,Sfax,Sfax,Centre-Est,4,Urbain,2015,212,2,Supérieure,3,150.00,True,27,Lit double,1,True,False,2022,Rénovée
+CH0857,H13,Sfax Business Center,Sfax,Sfax,Centre-Est,4,Urbain,2015,301,3,Supérieure,3,150.00,True,26,Lit king,1,True,False,2022,Rénovée
+CH0858,H13,Sfax Business Center,Sfax,Sfax,Centre-Est,4,Urbain,2015,302,3,Supérieure,3,150.00,True,26,Lits jumeaux,2,False,False,2022,Rénovée
+CH0859,H13,Sfax Business Center,Sfax,Sfax,Centre-Est,4,Urbain,2015,303,3,Supérieure,3,150.00,True,26,Lits jumeaux,2,False,False,2023,Rénovée
+CH0860,H13,Sfax Business Center,Sfax,Sfax,Centre-Est,4,Urbain,2015,304,3,Supérieure,3,150.00,True,32,Lit double,1,True,False,2024,Rénovée
+CH0861,H13,Sfax Business Center,Sfax,Sfax,Centre-Est,4,Urbain,2015,305,3,Supérieure,3,150.00,True,28,Lit king,1,False,False,2018,Bon état
+CH0862,H13,Sfax Business Center,Sfax,Sfax,Centre-Est,4,Urbain,2015,306,3,Supérieure,3,150.00,True,34,Lit double,1,False,False,2015,Bon état
+CH0863,H13,Sfax Business Center,Sfax,Sfax,Centre-Est,4,Urbain,2015,307,3,Supérieure,3,150.00,True,32,Lit king,1,True,False,2015,Bon état
+CH0864,H13,Sfax Business Center,Sfax,Sfax,Centre-Est,4,Urbain,2015,308,3,Supérieure,3,150.00,True,29,Lit double,1,True,False,2015,Bon état
+CH0865,H13,Sfax Business Center,Sfax,Sfax,Centre-Est,4,Urbain,2015,309,3,Supérieure,3,150.00,True,26,Lit double,1,True,False,2023,Rénovée
+CH0866,H13,Sfax Business Center,Sfax,Sfax,Centre-Est,4,Urbain,2015,310,3,Supérieure,3,150.00,True,26,Lit double,1,True,False,2015,Bon état
+CH0867,H13,Sfax Business Center,Sfax,Sfax,Centre-Est,4,Urbain,2015,311,3,Supérieure,3,150.00,True,31,Lit king,1,False,False,2023,Rénovée
+CH0868,H13,Sfax Business Center,Sfax,Sfax,Centre-Est,4,Urbain,2015,312,3,Supérieure,3,150.00,True,26,Lit double,1,True,False,2018,Bon état
+CH0869,H13,Sfax Business Center,Sfax,Sfax,Centre-Est,4,Urbain,2015,401,4,Supérieure,3,150.00,True,31,Lit double,1,False,False,2024,Rénovée
+CH0870,H13,Sfax Business Center,Sfax,Sfax,Centre-Est,4,Urbain,2015,402,4,Supérieure,3,150.00,True,27,Lits jumeaux,2,False,False,2015,Bon état
+CH0871,H13,Sfax Business Center,Sfax,Sfax,Centre-Est,4,Urbain,2015,403,4,Supérieure,3,150.00,True,33,Lit double,1,True,False,2015,Bon état
+CH0872,H13,Sfax Business Center,Sfax,Sfax,Centre-Est,4,Urbain,2015,404,4,Supérieure,3,150.00,True,29,Lit king,1,True,False,2024,Rénovée
+CH0873,H13,Sfax Business Center,Sfax,Sfax,Centre-Est,4,Urbain,2015,405,4,Supérieure,3,150.00,True,34,Lit king,1,False,False,2016,Bon état
+CH0874,H13,Sfax Business Center,Sfax,Sfax,Centre-Est,4,Urbain,2015,406,4,Familiale,5,190.00,False,46,Lit double + canapé-lit,2,True,False,2016,Bon état
+CH0875,H13,Sfax Business Center,Sfax,Sfax,Centre-Est,4,Urbain,2015,407,4,Familiale,5,190.00,False,36,Lit double + canapé-lit,2,True,False,2022,Rénovée
+CH0876,H13,Sfax Business Center,Sfax,Sfax,Centre-Est,4,Urbain,2015,408,4,Familiale,5,190.00,False,40,Lit double + 2 lits simples,3,False,False,2016,Bon état
+CH0877,H13,Sfax Business Center,Sfax,Sfax,Centre-Est,4,Urbain,2015,409,4,Familiale,5,190.00,False,48,Lit double + canapé-lit,2,True,False,2015,Bon état
+CH0878,H13,Sfax Business Center,Sfax,Sfax,Centre-Est,4,Urbain,2015,410,4,Familiale,5,190.00,False,44,Lit double + 2 lits simples,3,True,False,2020,Bon état
+CH0879,H13,Sfax Business Center,Sfax,Sfax,Centre-Est,4,Urbain,2015,411,4,Familiale,5,190.00,False,40,Lit double + canapé-lit,2,True,False,2020,Bon état
+CH0880,H13,Sfax Business Center,Sfax,Sfax,Centre-Est,4,Urbain,2015,412,4,Familiale,5,190.00,False,37,Lit double + canapé-lit,2,True,False,2015,Bon état
+CH0881,H13,Sfax Business Center,Sfax,Sfax,Centre-Est,4,Urbain,2015,501,5,Familiale,5,190.00,False,44,Lit double + 2 lits simples,3,False,False,2022,Rénovée
+CH0882,H13,Sfax Business Center,Sfax,Sfax,Centre-Est,4,Urbain,2015,502,5,Familiale,5,190.00,False,47,Lit double + 2 lits simples,3,True,False,2022,Rénovée
+CH0883,H13,Sfax Business Center,Sfax,Sfax,Centre-Est,4,Urbain,2015,503,5,Familiale,5,190.00,False,39,Lit double + 2 lits simples,3,False,False,2022,Rénovée
+CH0884,H13,Sfax Business Center,Sfax,Sfax,Centre-Est,4,Urbain,2015,504,5,Suite,4,300.00,True,75,Lit king,1,False,False,2020,Bon état
+CH0885,H13,Sfax Business Center,Sfax,Sfax,Centre-Est,4,Urbain,2015,505,5,Suite,4,300.00,True,63,Lit king,1,True,False,2018,Bon état
+CH0886,H13,Sfax Business Center,Sfax,Sfax,Centre-Est,4,Urbain,2015,506,5,Suite,4,300.00,True,59,Lit king,1,True,False,2024,Rénovée
+CH0887,H13,Sfax Business Center,Sfax,Sfax,Centre-Est,4,Urbain,2015,507,5,Suite,4,300.00,True,75,Lit king,1,True,False,2024,Rénovée
+CH0888,H13,Sfax Business Center,Sfax,Sfax,Centre-Est,4,Urbain,2015,508,5,Suite,4,300.00,True,60,Lit king,1,True,False,2024,Rénovée
+CH0889,H13,Sfax Business Center,Sfax,Sfax,Centre-Est,4,Urbain,2015,509,5,Suite,4,300.00,True,60,Lit king,1,True,False,2016,Bon état
+CH0890,H13,Sfax Business Center,Sfax,Sfax,Centre-Est,4,Urbain,2015,510,5,Suite,4,300.00,True,54,Lit king,1,True,False,2022,Rénovée
